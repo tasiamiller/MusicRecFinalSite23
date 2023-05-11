@@ -1,0 +1,63 @@
+//Sass color variables
+//Change link color here
+$link-color: #0f0f0f;
+$hover-color: darken($link-color, 20%);
+$visited-color: lighten($link-color, 20%);
+$nav-background: #fff;
+
+.site-nav {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 1rem; /* adds space between logo and nav items if the items wrap under the logo */
+    justify-content: space-between;
+    padding: 1.5rem 2rem;
+    background-color: $nav-background;
+    transition: top 500ms ease-in-out;
+
+    .logo {
+        /* you may change this styling to fit your site*/
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+      }
+
+      .links {
+        display: flex;
+        margin: 0 -1em;
+    
+        a {
+            display: inline-block;
+            margin: 0 1em;
+            color: $link-color;
+            text-decoration: none;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+
+            &:hover{
+                color: $hover-color;
+                border-bottom: 1px solid $hover-color;
+            }
+              
+            &:visited{
+                color: $visited-color;
+                border-color: $visited-color;
+            }
+        }
+    }
+
+  }
+  
+  
+  @media screen and (max-width: 600px){
+    .site-nav{
+      justify-content:center;
+    }
+    .logo{
+      text-align: center;
+      flex-basis: 100%;
+    }
+
+    
+  }
+  

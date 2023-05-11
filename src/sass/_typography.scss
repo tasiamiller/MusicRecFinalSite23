@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:400,500');
+/* Optional, include a web font. @import must come before other styles. */
+
+/*  ==========================
+    BASE TYPOGRAPHY
+    This is added as a template to help start. 
+    You should change the fonts, font-sizes and anything else appropriate for your site.
+    ========================== */
+
+
+/* The html and body selectors below set the base type for the entire page */
+html {
+    font-size: 1em;
+  }
+  
+  body {
+    // font-family: sans-serif;
+    font-family: Rubik, sans-serif; //remove or replace with you own font.
+    font-weight: 400;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  
+  /* This adds space between paragraphs and list items*/
+  /* NOTE: most Navigations use list items so you will need to */
+  /* explicity set the margins on those so this rule doesn't */
+  /* mess up your navigation styling */
+  p,
+  li {
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+  
+  
+  /* Base Styling for headings.
+    You can and should modify these to fit your site*/
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 500;
+    // font-family: serif;
+    font-family: 'Barlow Condensed', sans-serif; //remove or replace with you own font.
+  }
+  
+  
+  /* For each of your headings at minimum set the margin, size, line-height. 
+  Adjust font-weight and other properties as needed. */
+  
+/* This is example CSS, you can remove
+  h1 {
+    font-size: 5.063rem;
+    line-height: 1;
+    margin: 0 0 0.5em 0;
+  }
+  
+  h2 {
+    font-size: 3.375rem;
+    line-height: 1.2;
+    margin: 1.5rem 0 0.5rem 0;
+  }
+
+
+//   if h2 is the first in main then remove extra margin at top
+main h2:first-child{
+    margin-top: 0;
+}
+end example CSS
+*/
