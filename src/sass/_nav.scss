@@ -1,0 +1,192 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  background-color:gainsboro;
+}
+
+nav{
+  background-color: white;
+  width: 100%;
+  height: 60px;
+  margin: auto;
+  position: relative;
+}
+
+#bc1, #bc2, .btn{
+  display: none;
+}
+
+label.logo{
+  float: left;
+  font-size: 25px;
+  padding:0 5%;
+  color: royalblue;
+  line-height: 60px;
+  font-weight: 800;
+}
+
+ul{
+  float: left;
+}
+
+ul li{
+  display: inline-block;
+  list-style: none;
+}
+
+ul li a{
+  color: rgb(27, 26, 26);
+  text-decoration: none;
+  padding:0 15px;
+  font-size: 14px;
+  line-height: 60px;
+  display: block;
+}
+
+ul li a:hover{
+  background-color: royalblue;
+  color: white;
+}
+
+.search-icon{
+  position: absolute;
+  float: left;
+  right: 5%;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  color: royalblue;
+  font-size: 17px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.search-box{
+  position: absolute;
+  float:left;
+  background-color: royalblue;
+  right: 5%;
+  top: -65px;
+  width: 300px;
+  height: 60px;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+  transition: all 0.17s ease;
+}
+
+.search-box::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 20px;
+  width: 0;
+  height: 0;
+  border: 10px solid transparent;
+  border-bottom-color:royalblue;
+  margin: -20px 0 0;
+}
+
+form{
+  width: 100%;
+  height: 38px;
+  right: 0;
+  background-color:royalblue;
+  display: flex;
+  overflow: hidden;
+  padding: 2px;
+  border-radius: 4px;
+}
+
+.search{
+  width: 95%;
+  background-color: royalblue;
+  color: white;
+  padding:0 10px;
+  font-size: 14px;
+  border: 0;
+  outline: none;
+}
+
+.search::placeholder{
+  color: white;
+}
+
+.sub{
+  font-size: 14px;
+  padding:0 10px;
+  border: 0;
+  background-color: white;
+  color: royalblue;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#bc2:checked ~ .search-box{
+  top: 60px;
+}
+
+@media (max-width:1052px){
+  nav{
+      width: 100%;
+  }
+
+  ul{
+      position: fixed;
+      width: 300px;
+      background-color: royalblue;
+      height: 100vh;
+      text-align: center;
+      transition: all 0.5s;
+      top: 60px;
+      left: -800px;
+  }
+
+  ul li{
+      display: block;
+      padding: 5px 0;
+  }
+
+  ul li a{
+      color: white;
+  }
+
+  ul li a:hover{
+      color:black;
+  }
+
+  label.logo{
+      position: absolute;
+      width: 100%;
+      text-align: center;
+  }
+
+  .btn{
+      position: absolute;
+      display: block;
+      width: 60px;
+      height: 60px;
+      left: 5%;
+      color: royalblue;
+      font-size: 25px;
+      text-align: center;
+      line-height: 60px;
+      cursor: pointer;
+      z-index: 20;
+  }
+
+  #bc1:checked ~ ul{
+      left: 0px;
+  }
+}
+
+@media (max-width:652px){
+  ul{
+      width: 100%;
+  }
+}
