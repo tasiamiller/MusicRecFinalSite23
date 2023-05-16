@@ -2,8 +2,6 @@
 title: Groove
 layout: base.njk
 pageClass: soca
-tags:
-    - soca
 ---
 <h1 class="subgenre-title">Groove <!-- sub genre name--></h1>
 

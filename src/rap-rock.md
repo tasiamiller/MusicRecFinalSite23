@@ -2,8 +2,6 @@
 title: Rap Rock
 layout: base.njk
 pageClass: hiphop
-tags:
-    - hiphop
 ---
 <h1 class="subgenre-title">Rap Rock <!-- sub genre name--></h1>
 
