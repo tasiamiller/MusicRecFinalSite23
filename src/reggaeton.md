@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 ---
 title: Reggaeton 
 layout: base.njk
 pageClass: reggaeton
 ---
-## {{title}}
-=======
-<h1 class="subgenre-title"> Raggaeton<!-- sub genre name--></h1>
+
+<h1 class="subgenre-title"> Reggaeton<!-- sub genre name--></h1>
 
 <p class="summary"> <!-- subgenre summary--></p>
 
@@ -35,4 +33,3 @@ pageClass: reggaeton
 </section>
 
 <!-- suggestion section, still figuring out how to format this using the bubble diagram from the wireframe-->
->>>>>>> tasia
