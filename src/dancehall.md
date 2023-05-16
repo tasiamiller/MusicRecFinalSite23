@@ -1,3 +1,10 @@
+---
+title: Dancehall
+layout: base.njk
+pageClass: soca
+tags:
+-soca
+---
 <h1 class="subgenre-title">Dancehall <!-- sub genre name--></h1>
 
 <p class="summary"> <!-- subgenre summary--></p>

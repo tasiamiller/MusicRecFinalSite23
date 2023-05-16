@@ -1,3 +1,10 @@
+---
+title: Funk
+layout: base.njk
+pageClass: soca
+tags:
+-soca
+---
 <h1 class="subgenre-title">Funk <!-- sub genre name--></h1>
 
 <p class="summary"> <!-- subgenre summary--></p>
