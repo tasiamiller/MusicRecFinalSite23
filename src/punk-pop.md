@@ -3,7 +3,7 @@ title: Punk Pop
 layout: base.njk
 pageClass: pop
 tags:
--pop
+    - pop
 ---
 <h1 class="subgenre-title">Punk Pop <!-- sub genre name--></h1>
 

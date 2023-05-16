@@ -1,3 +1,8 @@
+---
+title: Country HipHop
+layout: base.njk
+pageClass: hiphop
+---
 <h1 class="subgenre-title"> Country Hip Hop<!-- sub genre name--></h1>
 
 <p class="summary"> <!-- subgenre summary--></p>

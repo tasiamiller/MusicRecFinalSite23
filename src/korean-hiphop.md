@@ -2,8 +2,6 @@
 title: Korean HipHop
 layout: base.njk
 pageClass: hiphop
-tags:
--hiphop
 ---
 <h1 class="subgenre-title"> Korean Hiphop<!-- sub genre name--></h1>
 
