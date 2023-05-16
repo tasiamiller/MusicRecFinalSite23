@@ -1,9 +1,9 @@
 ---
-title: Teen Pop
-layout: base.njk
-pageClass: pop
+title:Teen Pop
+layout:base.njk
+pageClass:pop
 tags:
--pop
+    - pop
 ---
 <h1 class="subgenre-title"> Teen Pop<!-- sub genre name--></h1>
 

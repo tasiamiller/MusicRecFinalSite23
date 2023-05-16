@@ -1,9 +1,9 @@
 ---
-title: Soul
-layout: base.njk
-pageClass: soca
+title:Soul
+layout:base.njk
+pageClass:soca
 tags:
--soca
+    - soca
 ---
 
 <h1 class="subgenre-title"> Soul<!-- sub genre name--></h1>

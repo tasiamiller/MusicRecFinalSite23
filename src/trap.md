@@ -1,9 +1,9 @@
 ---
-title: Trap
+title: Rap Rock
 layout: base.njk
 pageClass: hiphop
 tags:
--hiphop
+    - hiphop
 ---
 <h1 class="subgenre-title">Trap <!-- sub genre name--></h1>
 

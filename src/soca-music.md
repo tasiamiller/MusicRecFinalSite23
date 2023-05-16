@@ -1,7 +1,9 @@
 ---
-title: Soca Music
-layout: base.njk
-pageClass: soca
+title:Soca Music
+layout:base.njk
+pageClass:soca
+tags:
+    - soca
 ---
 <h1 class="main-genre">Soca</h1>
 <img src=""> <!-- image depicting the genre-->
