@@ -3,8 +3,33 @@ title: Home
 layout: base.njk
 pageClass: hiphop
 ---
-## {{title}}
+<h1 class="main-genre"><!-- genre--></h1>
+<img src=""> <!-- image depicting the genre-->
 
-My Home Page!
-This is the home page. Replace this with your text.
+<p class="summary"><!-- summary of main genre here--> </p>
 
+                    <!-- sub genre selection-->
+                    
+<div class="sub">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3><!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</div>
+
+<div class="sub">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3><!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</div>
+
+<div class="sub">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3><!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</div>

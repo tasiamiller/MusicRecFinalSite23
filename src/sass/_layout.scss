@@ -2,3 +2,17 @@
   ADD YOUR LAYOUT CSS HERE
   ================================================ */
 //This is not necessary. Opinionated to remove default margin from body to allow things to go all the way across the screen.
+.main{
+  width: 1000px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 100px; 
+}
+.genre{
+  background-color: rgb(79, 99, 117);
+  margin: auto 20px;
+}
+.genre a{ 
+  text-decoration: none; 
+  color: black;
+}
