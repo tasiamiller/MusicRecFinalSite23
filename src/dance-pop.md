@@ -3,7 +3,7 @@ title: Dance Pop
 layout: base.njk
 pageClass: pop
 tags:
--pop
+ - pop
 ---
 <h1 class="subgenre-title">Dance Pop <!-- sub genre name--></h1>
 

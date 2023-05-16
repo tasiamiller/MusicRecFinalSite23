@@ -1,14 +1,9 @@
 ---
 title: Soul
 layout: base.njk
-<<<<<<< HEAD
-pageClass: soul
----
-## {{title}}
-=======
 pageClass: soca
 tags:
--soca
+    - soca
 ---
 
 <h1 class="subgenre-title"> Soul<!-- sub genre name--></h1>
@@ -40,4 +35,3 @@ tags:
 </section>
 
 <!-- suggestion section, still figuring out how to format this using the bubble diagram from the wireframe-->
->>>>>>> tasia

@@ -5,7 +5,7 @@ tags: navItem
 pageClass: home
 ---
 <section class="spotlight">
-<img id="chip" src="...">
+<img id="chip" src="..." alt="chipmunk scratching turntables (ai generated)">
 <div>
 <h2>Chipmunk Soul</h2>
 <h4>Category: <i>Hip Hop</i></h4>
@@ -14,13 +14,11 @@ This particular style gained immense popularity during the first to middle years
 </div>
 </section>
 
-<<<<<<< HEAD
-=======
 <h1>Genres</h1>
 <section class="main">
 <div class="genre">
     <a href="/hiphop" class="main-genre">
-<img src="...">
+<img src="..." alt="">
 <div>
 <h4>Hip Hop</h4>
 <p>Hip hop is a cultural movement and music genre that originated in African American and Latino communities in the Bronx, New York City in the 1970s. 
@@ -55,5 +53,4 @@ It is characterized by its fusion of calypso music with elements of soul, funk, 
 <h1>About Us</h1>
 
 <p><!-- about us paragraph here--></p>
->>>>>>> tasia
 

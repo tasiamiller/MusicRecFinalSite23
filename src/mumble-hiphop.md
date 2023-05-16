@@ -3,7 +3,7 @@ title: Mumble Rap
 layout: base.njk
 pageClass: hiphop
 tags:
--hiphop
+    - hiphop
 ---
 <h1 class="subgenre-title">Mumble Rap <!-- sub genre name--></h1>
 
