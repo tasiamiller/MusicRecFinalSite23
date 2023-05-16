@@ -1,3 +1,10 @@
+---
+title: R N B
+layout: base.njk
+pageClass: pop
+tags:
+-pop
+---
 <h1 class="subgenre-title">RNB <!-- sub genre name--></h1>
 
 <p class="summary"> <!-- subgenre summary--></p>

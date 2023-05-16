@@ -1,3 +1,10 @@
+---
+title: Korean Pop (K-pop)
+layout: base.njk
+pageClass: pop
+tags:
+-pop
+---
 <h1 class="subgenre-title">Korean Pop <!-- sub genre name--></h1>
 
 <p class="summary"> <!-- subgenre summary--></p>

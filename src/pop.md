@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Pop Music
 layout: base.njk
 pageClass: pop
 ---
