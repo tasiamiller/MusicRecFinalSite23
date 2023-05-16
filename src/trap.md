@@ -1,5 +1,5 @@
 ---
-title: Trap
+title: Rap Rock
 layout: base.njk
 pageClass: hiphop
 tags:

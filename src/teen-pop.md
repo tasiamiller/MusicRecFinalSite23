@@ -1,7 +1,7 @@
 ---
-title: Teen Pop
-layout: base.njk
-pageClass: pop
+title:Teen Pop
+layout:base.njk
+pageClass:pop
 tags:
     - pop
 ---

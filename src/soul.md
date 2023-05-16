@@ -1,7 +1,7 @@
 ---
-title: Soul
-layout: base.njk
-pageClass: soca
+title:Soul
+layout:base.njk
+pageClass:soca
 tags:
     - soca
 ---
