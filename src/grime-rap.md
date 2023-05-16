@@ -1,3 +1,10 @@
+---
+title: Grime
+layout: base.njk
+pageClass: hiphop
+tags:
+-hiphop
+---
 <h1 class="subgenre-title">Grime- UK Based Hiphop <!-- sub genre name--></h1>
 
 <p class="summary"> <!-- subgenre summary--></p>

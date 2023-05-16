@@ -1,5 +1,5 @@
 ---
-title: Home
+title: HipHop
 layout: base.njk
 pageClass: hiphop
 ---
