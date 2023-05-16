@@ -1,8 +1,8 @@
 ---
-title: Sample page
+title: Our Team
 layout: base.njk
 tags: navItem
-pageClass: sample
+pageClass: team
 ---
 
 ## Sample Page

@@ -1,11 +1,11 @@
 ---
-title: Korean HipHop
+title: Calypso
 layout: base.njk
-pageClass: hiphop
+pageClass: soca
 tags:
--hiphop
+-soca
 ---
-<h1 class="subgenre-title"> Korean Hiphop<!-- sub genre name--></h1>
+<h1 class="subgenre-title">Calyspo <!-- sub genre name--></h1>
 
 <p class="summary"> <!-- subgenre summary--></p>
 

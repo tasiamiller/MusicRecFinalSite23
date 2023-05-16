@@ -1,11 +1,11 @@
 ---
-title: Korean HipHop
+title: Korean Pop (K-pop)
 layout: base.njk
-pageClass: hiphop
+pageClass: pop
 tags:
--hiphop
+-pop
 ---
-<h1 class="subgenre-title"> Korean Hiphop<!-- sub genre name--></h1>
+<h1 class="subgenre-title">Korean Pop <!-- sub genre name--></h1>
 
 <p class="summary"> <!-- subgenre summary--></p>
 

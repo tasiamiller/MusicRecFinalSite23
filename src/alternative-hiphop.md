@@ -1,11 +1,4 @@
----
-title: Korean HipHop
-layout: base.njk
-pageClass: hiphop
-tags:
--hiphop
----
-<h1 class="subgenre-title"> Korean Hiphop<!-- sub genre name--></h1>
+<h1 class="subgenre-title"> Alternative Hip Hop<!-- sub genre name--></h1>
 
 <p class="summary"> <!-- subgenre summary--></p>
 
