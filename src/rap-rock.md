@@ -9,26 +9,67 @@ pageClass: hiphop
 
 <!-- top album and artist section-->
 
-<section class="top">
-<h2>Top Albums</h2>
-<div class="albums">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-</div>
-</section>
+<section class="top"><section class="top">
+    <h2>Top Artists</h2>
+    <div class="artist">
+    <figure>
+        <img src="" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    <figure>
+        <img src="" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    <figure>
+        <img src="" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    <figure>
+        <img src="" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    <figure>
+        <img src="" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    </div>
+    </section>
 
 <section class="top">
 <h2>Top Albums</h2>
-<div class="artist">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
+<div class="albums">
+<figure>
+    <img src="" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
 </div>
 </section>
+
 
 <!-- suggestion section, still figuring out how to format this using the bubble diagram from the wireframe-->
