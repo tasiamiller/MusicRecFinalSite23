@@ -13,8 +13,8 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
                     <!-- sub genre selection-->
                     
 <div class="sub">
-    <a href="" class="sub-link">
-<img src="/abstract-hiphop"> <!-- image of popular album or artist from said sub-genre-->
+    <a href="/abstract-hiphop" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
 <h3>Abstract Hiphop<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
