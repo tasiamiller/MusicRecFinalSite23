@@ -16,27 +16,27 @@ It is widely considered to have originated in the late 1980s and early 1990s, an
 <div class="artist">
 <figure>
 <img src="" alt="">
-<figcaption></figcaption>
+<figcaption>Tiger Jk</figcaption>
 </img>
 </figure>
 <figure>
 <img src="" alt="">
-<figcaption></figcaption>
+<figcaption>Yoon Mi-rae</figcaption>
 </img>
 </figure>
 <figure>
 <img src="" alt="">
-<figcaption></figcaption>
+<figcaption>Tablo(of Epik High)</figcaption>
 </img>
 </figure>
 <figure>
 <img src="" alt="">
-<figcaption></figcaption>
+<figcaption>Jessi</figcaption>
 </img>
 </figure>
 <figure>
 <img src="" alt="">
-<figcaption></figcaption>
+<figcaption>DPR Live</figcaption>
 </img>
 </figure>
 </div>
@@ -47,27 +47,27 @@ It is widely considered to have originated in the late 1980s and early 1990s, an
 <div class="albums">
 <figure>
 <img src="" alt="">
-<figcaption></figcaption>
+<figcaption>Jack In The Box,jhope(of BTS)</figcaption>
 </img>
 </figure>
 <figure>
 <img src="" alt="">
-<figcaption></figcaption>
+<figcaption>Lowlife Princess: Noir, Bibi</figcaption>
 </img>
 </figure>
 <figure>
 <img src="" alt="">
-<figcaption></figcaption>
+<figcaption>Indigo, RM(of BTS)</figcaption>
 </img>
 </figure>
 <figure>
 <img src="" alt="">
-<figcaption></figcaption>
+<figcaption>2, Bang Yongguk</figcaption>
 </img>
 </figure>
 <figure>
 <img src="" alt="">
-<figcaption></figcaption>
+<figcaption>Epik High Is Here 下, Part 2, Epik High</figcaption>
 </img>
 </figure>
 </div>
