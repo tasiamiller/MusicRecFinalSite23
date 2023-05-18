@@ -13,25 +13,71 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
                     <!-- sub genre selection-->
                     
 <div class="sub">
-<img src=""> <!-- image of popular album or artist from said sub-genre-->
+    <a href="" class="sub-link">
+<img src="/abstract-hiphop"> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3><!--sub genre name--></h3>
+<h3>Abstract Hiphop<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
+</a>
 </div>
 
 <div class="sub">
+    <a href="/alternative-hiphop" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3><!--sub genre name--></h3>
+<h3>Alternative Hip Hop<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
+</a>
 </div>
 
 <div class="sub">
+    <a href="/country-hiphop" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3>Country HipHop<!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="/grime-rap" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3>Grime<!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="/korean-hiphop" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3>Korean HipHop<!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="/mumble-hiphop" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3>Mumble Rap<!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="/trap" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
 <h3><!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
+</a>
 </div>

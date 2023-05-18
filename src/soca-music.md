@@ -11,26 +11,72 @@ pageClass:soca
 <!-- sub genre selection-->
 
 <div class="sub">
+    <a href="/calypso" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3><!--sub genre name--></h3>
+<h3>Calypso<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
+</a>
 </div>
 
 <div class="sub">
+    <a href="" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
 <h3><!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
+</a>
 </div>
 
 <div class="sub">
+    <a href="" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
 <h3><!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3><!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3><!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3><!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3><!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
 </div>
 

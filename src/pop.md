@@ -13,25 +13,74 @@ Although much of the music that appears on record charts is considered to be pop
                     <!-- sub genre selection-->
                     
 <div class="sub">
+    <a href="/dance-pop" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3><!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
+<h3>Dance Pop<!--sub genre name--></h3>
+<p> <!-- short description of sub genre--></p>
 </div>
+</a>
 </div>
 
 <div class="sub">
+    <a href="/korean-pop" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3><!--sub genre name--></h3>
+<h3>Korean Pop (K-pop)<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
+</a>
 </div>
 
 <div class="sub">
-<img src=""> <!-- image of popular album or artist from said sub-genre-->
+    <a href="" class="sub-link">
+<img src="/pop-rap"> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3><!--sub genre name--></h3>
+<h3>Pop Rap<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
+</a>
 </div>
+
+<div class="sub">
+    <a href="/punk-pop" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3>Punk Pop<!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="/rnb" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3>Rhythim And Blues(RNB)<!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="" class="sub-link">
+<img src="/soul"> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3>Soul<!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+<div class="sub">
+    <a href="/teen-pop" class="sub-link">
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+<h3>Teen Pop<!--sub genre name--></h3>
+<p><!-- short description of sub genre--></p>
+</div>
+</a>
+</div>
+
+
+

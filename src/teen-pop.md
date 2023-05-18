@@ -10,24 +10,64 @@ pageClass:pop
 <!-- top album and artist section-->
 
 <section class="top">
-<h2>Top Albums</h2>
-<div class="albums">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-</div>
-</section>
+    <h2>Top Artists</h2>
+    <div class="artist">
+    <figure>
+        <img src="" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    <figure>
+        <img src="" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    <figure>
+        <img src="" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    <figure>
+        <img src="" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    <figure>
+        <img src="" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    </div>
+    </section>
 
 <section class="top">
 <h2>Top Albums</h2>
-<div class="artist">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
+<div class="albums">
+<figure>
+    <img src="" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
 </div>
 </section>
 
