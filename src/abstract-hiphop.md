@@ -11,37 +11,33 @@ pageClass: hiphop
 <section class="top">
 <h2>Top Artists</h2>
 <div class="artist">
-<figure>
-<img src="" alt="Madvillian">
-<figcaption>Madvillian</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Earl Sweatshirt">
-<figcaption>Earl Sweatshirt</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Ghostface Killah">
-<figcaption>Ghostface Killah</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="MF DOOM">
-<figcaption>MF DOOM</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Death grips">
-<figcaption>Death grips</figcaption>
-</img>
-</figure>
+    {% for artist in artistsAbstracthiphop %}
+    <figure>
+        <img src="{{artist.src}}" alt="{{artist.alt}}">
+        <figcaption>
+            <h3>{{artist.artist}}</h3>
+            <p><a href="{{artist.creditLink}}">Photo </a>{{artist.credit}}</p>
+        </figcaption>
+        </figure>
+    {% endfor %}
+
+  
+
 </div>
 </section>
 
 <section class="top">
 <h2>Top Albums</h2>
 <div class="albums">
+    {% for album in albumsAbstracthiphop %}
+    <figure>
+        <img src="{{album.src}}" alt="{{album.alt}}">
+        <figcaption>
+            <h3>{{album.album}}</h3>
+            <p><a href="{{album.creditLink}}">Photo </a>{{album.credit}}</p>
+        </figcaption>
+        </figure>
+    {% endfor %}
 <figure>
 <img src="" alt="Madvilliany">
 <figcaption>Madvilliany</figcaption>
