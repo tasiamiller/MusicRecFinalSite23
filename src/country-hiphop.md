@@ -5,7 +5,7 @@ pageClass: hiphop
 ---
 <h1 class="subgenre-title"> Country Hip Hop<!-- sub genre name--></h1>
 
-<p class="summary"> <!-- subgenre summary--></p>
+<p class="summary">Country rap (or country hip hop and sometimes hick hop) is a fusion genre of popular music, blending country music with hip hop–style singing or rapping.  <!-- subgenre summary--></p>
 
 <!-- top album and artist section-->
 
