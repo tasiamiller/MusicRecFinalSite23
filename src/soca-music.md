@@ -34,7 +34,7 @@ pageClass:soca
     <a href="/funk" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3><!--sub genre name--></h3>
+<h3>Funk<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
 </a>
@@ -44,7 +44,7 @@ pageClass:soca
     <a href="/groove" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3><!--sub genre name--></h3>
+<h3>Groove<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
 </a>
@@ -54,7 +54,7 @@ pageClass:soca
     <a href="/reggaeton" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3><!--sub genre name--></h3>
+<h3>Reggaeton<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
 </a>
