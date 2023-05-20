@@ -12,62 +12,30 @@ pageClass: hiphop
 <section class="top">
     <h2>Top Artists</h2>
     <div class="artist">
-    <figure>
-        <img src="" alt="Playboi Carti">
-            <figcaption>Playboi Carti</figcaption>
-        </img>
-    </figure>
-    <figure>
-        <img src="" alt="Yeat ">
-            <figcaption>Yeat </figcaption>
-        </img>
-    </figure>
-    <figure>
-        <img src="" alt="Lil Yachty ">
-            <figcaption>Lil Yachty </figcaption>
-        </img>
-    </figure>
-    <figure>
-        <img src="" alt="Future">
-            <figcaption>Future</figcaption>
-        </img>
-    </figure>
-    <figure>
-        <img src="" alt="Cochise">
-            <figcaption>Cochise</figcaption>
-        </img>
-    </figure>
+        {% for artist in artistsMumblehiphop %}
+        <figure>
+            <img src="{{artist.src}}" alt="{{artist.alt}}">
+            <figcaption>
+                <h3>{{artist.artist}}</h3>
+                <p><a href="{{artist.creditLink}}">Photo </a>{{artist.credit}}</p>
+            </figcaption>
+            </figure>
+        {% endfor %}
     </div>
     </section>
 
 <section class="top">
 <h2>Top Albums</h2>
 <div class="albums">
-<figure>
-    <img src="" alt="DS2 ">
-        <figcaption>DS2 </figcaption>
-    </img>
-</figure>
-<figure>
-    <img src="" alt="Die Lit">
-        <figcaption>Die Lit</figcaption>
-    </img>
-</figure>
-<figure>
-    <img src="" alt="Up 2 Me">
-        <figcaption>Up 2 Me</figcaption>
-    </img>
-</figure>
-<figure>
-    <img src="" alt="Whole lotta red ">
-        <figcaption>Whole lotta red </figcaption>
-    </img>
-</figure>
-<figure>
-    <img src="" alt="Playboi Carti ">
-        <figcaption>Playboi Carti </figcaption>
-    </img>
-</figure>
+    {% for album in albumsMumblehiphop %}
+    <figure>
+        <img src="{{album.src}}" alt="{{album.alt}}">
+        <figcaption>
+            <h3>{{album.album}}</h3>
+            <p><a href="{{album.creditLink}}">Photo </a>{{album.credit}}</p>
+        </figcaption>
+        </figure>
+    {% endfor %}
 </div>
 </section>
 

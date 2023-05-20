@@ -11,62 +11,30 @@ pageClass: hiphop
 <section class="top">
     <h2>Top Artists</h2>
     <div class="artist">
-    <figure>
-        <img src="" alt="Skepta">
-            <figcaption>Skepta</figcaption>
-        </img>
-    </figure>
-    <figure>
-        <img src="" alt="Stormzy ">
-            <figcaption>Stormzy </figcaption>
-        </img>
-    </figure>
-    <figure>
-        <img src="" alt="Giggs">
-            <figcaption>Giggs</figcaption>
-        </img>
-    </figure>
-    <figure>
-        <img src="" alt="Little Simz">
-            <figcaption>Little Simz</figcaption>
-        </img>
-    </figure>
-    <figure>
-        <img src="" alt="Dave">
-            <figcaption>Dave</figcaption>
-        </img>
-    </figure>
+        {% for artist in artistsGrimerap %}
+        <figure>
+            <img src="{{artist.src}}" alt="{{artist.alt}}">
+            <figcaption>
+                <h3>{{artist.artist}}</h3>
+                <p><a href="{{artist.creditLink}}">Photo </a>{{artist.credit}}</p>
+            </figcaption>
+            </figure>
+        {% endfor %}
     </div>
     </section>
 
 <section class="top">
 <h2>Top Albums</h2>
 <div class="albums">
-<figure>
-    <img src="" alt="Heavy Is the Head">
-        <figcaption>Heavy Is the Head</figcaption>
-    </img>
-</figure>
-<figure>
-    <img src="" alt="Conflict of Interest">
-        <figcaption>Conflict of Interest</figcaption>
-    </img>
-</figure>
-<figure>
-    <img src="" alt="The Godfather III">
-        <figcaption>The Godfather III</figcaption>
-    </img>
-</figure>
-<figure>
-    <img src="" alt="Edna">
-        <figcaption>Edna</figcaption>
-    </img>
-</figure>
-<figure>
-    <img src="" alt="Big Conspiracy">
-        <figcaption>Big Conspiracy</figcaption>
-    </img>
-</figure>
+    {% for album in albumsGrimerap %}
+    <figure>
+        <img src="{{album.src}}" alt="{{album.alt}}">
+        <figcaption>
+            <h3>{{album.album}}</h3>
+            <p><a href="{{album.creditLink}}">Photo </a>{{album.credit}}</p>
+        </figcaption>
+        </figure>
+    {% endfor %}
 </div>
 </section>
 

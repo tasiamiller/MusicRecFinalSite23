@@ -13,62 +13,30 @@ pageClass:pop
 <section class="top">
 <h2>Top Artists</h2>
 <div class="artist">
-<figure>
-<img src="" alt="Stevie Wonder">
-<figcaption>Stevie Wonder</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Lauryn Hill ">
-<figcaption>Lauryn Hill </figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Sade">
-<figcaption>Sade</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Marvin Gaye ">
-<figcaption>Marvin Gaye </figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="D’angelo">
-<figcaption>D’angelo</figcaption>
-</img>
-</figure>
+    {% for artist in artistsSoul %}
+    <figure>
+        <img src="{{artist.src}}" alt="{{artist.alt}}">
+        <figcaption>
+            <h3>{{artist.artist}}</h3>
+            <p><a href="{{artist.creditLink}}">Photo </a>{{artist.credit}}</p>
+        </figcaption>
+        </figure>
+    {% endfor %}
 </div>
 </section>
 
 <section class="top">
 <h2>Top Albums</h2>
 <div class="albums">
-<figure>
-<img src="" alt="Songs in the Key of Life ">
-<figcaption>Songs in the Key of Life </figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Blonde">
-<figcaption>Blonde</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="What's Going On">
-<figcaption>What's Going On</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Igor">
-<figcaption>Igor</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Voodoo">
-<figcaption>Voodoo</figcaption>
-</img>
-</figure>
+    {% for album in albumsSoul %}
+    <figure>
+        <img src="{{album.src}}" alt="{{album.alt}}">
+        <figcaption>
+            <h3>{{album.album}}</h3>
+            <p><a href="{{album.creditLink}}">Photo </a>{{album.credit}}</p>
+        </figcaption>
+        </figure>
+    {% endfor %}
 </div>
 </section>
 

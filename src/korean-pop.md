@@ -11,62 +11,30 @@ pageClass: pop
 <section class="top">
 <h2>Top Artists</h2>
 <div class="artist">
-<figure>
-<img src="" alt="">
-<figcaption>BTS</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="">
-<figcaption>TWICE</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="">
-<figcaption>BLACKPINK</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="">
-<figcaption>NewJeans</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="">
-<figcaption>TXT</figcaption>
-</img>
-</figure>
+    {% for artist in artistsKoreanpop %}
+    <figure>
+        <img src="{{artist.src}}" alt="{{artist.alt}}">
+        <figcaption>
+            <h3>{{artist.artist}}</h3>
+            <p><a href="{{artist.creditLink}}">Photo </a>{{artist.credit}}</p>
+        </figcaption>
+        </figure>
+    {% endfor %}
 </div>
 </section>
 
 <section class="top">
 <h2>Top Albums</h2>
 <div class="albums">
-<figure>
-<img src="" alt="">
-<figcaption> Map of the Soul: 7, BTS </figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="">
-<figcaption>Born Pink, BLACKPINK</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="">
-<figcaption>FML, Seventeen</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="">
-<figcaption>Be,BTS</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="">
-<figcaption>Face The Sun, Seventeen</figcaption>
-</img>
-</figure>
+    {% for album in albumsKoreanpop %}
+    <figure>
+        <img src="{{album.src}}" alt="{{album.alt}}">
+        <figcaption>
+            <h3>{{album.album}}</h3>
+            <p><a href="{{album.creditLink}}">Photo </a>{{album.credit}}</p>
+        </figcaption>
+        </figure>
+    {% endfor %}
 </div>
 </section>
 
