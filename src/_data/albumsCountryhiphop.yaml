@@ -1,30 +1,30 @@
 - album: Heartland, Nelly
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+  src: '/images/heartland.png'
+  alt: Photo of Heartland, album by Nelly
+  credit: By https://music.apple.com/us/artist/nelly/351794, Fair use 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=69492057
   spotify: "add link"
 - album: Loco Motive,Cowboy Troy
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+  src: '/images/locomotive.jpeg'
+  alt: Photo of Loco Motive by Cowboy Troy
+  credit: By http://www.billboard.com/bbcom/discography/index.jsp?pid=654599&aid=680028, Fair use 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=12445333
   spotify: "add link"
 - album: Teenage Dream 2 (with Lil Uzi Vert), Kidd G
-  src: '/images/'
-  alt: 
-  credit: 
+  src: '/images/teenagedream2.jpeg'
+  alt: Teenage Dream Spotify cover
+  credit: found on Spotify
   creditLink:
   spotify: "add link"
 - album: Life Rolls On, Florida Georgia Line
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+  src: '/images/Life_Rolls_On.jpeg'
+  alt: Photo of Life Rolls On by Floride Georgia Line
+  credit: By https://www.showbizjunkies.com/music/florida-georgia-line-life-rolls-on-album/, Fair use 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=66730976
   spotify: "add link"
-- album: Grand,Kane Brown
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Different Man,Kane Brown
+  src: '/images/differentman.png'
+  alt: Photo of Different Man by Kane Brown
+  credit: By https://music.apple.com/au/album/different-man/1634040492, Fair use 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=71712832
   spotify: "add link"
