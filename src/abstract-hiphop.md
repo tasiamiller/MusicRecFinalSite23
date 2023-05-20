@@ -38,31 +38,7 @@ pageClass: hiphop
         </figcaption>
         </figure>
     {% endfor %}
-<figure>
-<img src="" alt="Madvilliany">
-<figcaption>Madvilliany</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="MM... FOOD">
-<figcaption>MM... FOOD</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Some Rap Songs">
-<figcaption>Some Rap Songs</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Deltron 3030">
-<figcaption>Deltron 3030</figcaption>
-</img>
-</figure>
-<figure>
-<img src="" alt="Ooperation Doomsday">
-<figcaption>Ooperation Doomsday</figcaption>
-</img>
-</figure>
+
 </div>
 </section>
 

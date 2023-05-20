@@ -8,19 +8,23 @@
   src: '/images/'
   alt: 
   credit: 
+  creditLink:
   ticketmaster: "add link"
 - artist: Ghostface Killah
   src: '/images/'
   alt: 
-  credit: 
+  credit:
+  creditLink: 
   ticketmaster: "add link"
 - artist: MF DOOM
   src: '/images/'
   alt: 
   credit: 
+  creditLink:
   ticketmaster: "add link"
 - artist: Death grips
   src: '/images/'
   alt: 
   credit: 
+  creditLink:
   ticketmaster: "add link"
