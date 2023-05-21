@@ -19,6 +19,7 @@ pageClass: soca
             <img src="{{artist.src}}" alt="{{artist.alt}}">
             <figcaption>
                 <h3>{{artist.artist}}</h3>
+                <h4><a href="{{artist.ticketmaster}}"> Check For Concerts In Your Area! </a></h4>
                 <p><a href="{{artist.creditLink}}">Photo </a>{{artist.credit}}</p>
             </figcaption>
             </figure>
@@ -34,6 +35,7 @@ pageClass: soca
         <img src="{{album.src}}" alt="{{album.alt}}">
         <figcaption>
             <h3>{{album.album}}</h3>
+            <h4><a href="{{album.spotify}}"> Listen Here </a></h4>
             <p><a href="{{album.creditLink}}">Photo </a>{{album.credit}}</p>
         </figcaption>
         </figure>

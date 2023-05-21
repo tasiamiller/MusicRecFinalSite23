@@ -50,7 +50,5 @@ It is characterized by its fusion of calypso music with elements of soul, funk, 
 </a>
 </div>
 </section>
-<h1>About Us</h1>
-
 <p><!-- about us paragraph here--></p>
 
