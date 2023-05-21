@@ -1,30 +1,30 @@
-- album: Jack In The Box,jhope(of BTS
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+- album: Jack In The Box,jhope(of BTS)
+  src: '/images/jitb.png'
+  alt: Jack In The Box by J-hope of BTS
+  credit: By https://music.apple.com/gb/album/edna/1531904333, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=65639568
+  spotify: https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl?si=xweB17C5SXGN29hgvyV2TQ
 - album: Lowlife Princess; Noir, Bibi
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  src: '/images/Lowlife_Princess_Noir.jpeg'
+  alt: Lowlife Princess by Naked Bibi
+  credit: By Feel Ghood Music - https://www.genie.co.kr/detail/albumInfo?axnm=83016217, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=72526779
+  spotify: https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH?si=V6e2-sSWQNC6DNVwPhs9Vw
 - album: Indigo, RM(of BTS)
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  src: '/images/indigo.jpeg'
+  alt: Indigo by RM of BTS
+  credit: By https://music.apple.com/kr/album/indigo/1654548355, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=72229854
+  spotify: https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v?si=rD9Nux0DSGWVHFRcm5HjSQ
 - album: 2, Bang Yongguk
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  src: '/images/2yongguk.jpeg'
+  alt:  2 by Bang Yongguk
+  credit: Spotify 
+  creditLink: 
+  spotify: https://open.spotify.com/album/5ZDc6YHilcbyY5KIUGmwAc?si=fk87qPBgTIuP3drS_ZtQXA
 - album: Epik High Is Here 下, Part 2, Epik High
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  src: '/images/ehih2.png'
+  alt:  Epik High Is Here 下, Part 2 by Epik High
+  credit: By Epik High - https://genius.com/albums/Epik-high/Epik-high-is-here-pt-2#, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=70296517
+  spotify: https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh?si=7Vl8OXiTSTa6r9rQgeVrbA
