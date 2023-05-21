@@ -37,6 +37,5 @@ pageClass: hiphop
     {% endfor %}
 </div>
 </section>
-
-
+<section class="back"><a href="/hiphop">Back to Hip Hop</a></section>
 <!-- suggestion section, still figuring out how to format this using the bubble diagram from the wireframe-->
