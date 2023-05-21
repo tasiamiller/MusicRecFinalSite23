@@ -39,5 +39,5 @@ pageClass:soca
     {% endfor %}
 </div>
 </section>
-
+<section class="back"><a href="/soca-music">Back to Soca Musice</a></section>
 <!-- suggestion section, still figuring out how to format this using the bubble diagram from the wireframe-->
