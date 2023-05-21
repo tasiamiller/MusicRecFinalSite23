@@ -1,30 +1,30 @@
 - album: Songs in the Key of Life
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  src: '/images/sitkol.jpeg'
+  alt: Songs in the Key of Life by Stevie Wonder
+  credit: By The cover art can be obtained from Motown., Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=12980652
+  spotify: https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0?si=oL73D39aSsC6el18mgCInA
 - album: Blonde
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  src: '/images/blonde.jpeg'
+  alt: Blonde by Frank Ocean
+  credit: By Author unknown. - http://a1.mzstatic.com/us/r30/Music62/v4/93/8f/75/938f7536-0188-f9ba-4585-0a77ceaebf0a/cover600x600.jpeg, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=51377277
+  spotify: https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf?si=X6moxEpURZyiwd6sG2ML6A
 - album: What's Going On
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  src: '/images/wgo.jpeg'
+  alt: What's Going On by Marvin Gaye
+  credit: By Photograph of personal copy contributed by RAsOtIs, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=194612
+  spotify: https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B?si=tVkqW1GUTE6bCRCmKoVzdQ
 - album: Igor
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  src: '/images/igor.jpeg'
+  alt: Igor by Tyler, The Creator
+  credit: By The cover art can be obtained from Columbia Records., Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=60680675
+  spotify: https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE?si=lzXCEoxSTBGjaPnj9kMJkw
 - album: Voodoo
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  src: '/images/voodoo.jpeg'
+  alt: Voodoo by D'Angelo
+  credit: By The cover art can be obtained from Virgin Records America., Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=18785333
+  spotify: https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8?si=2z7WHIwBShupQqmY1-_VNw

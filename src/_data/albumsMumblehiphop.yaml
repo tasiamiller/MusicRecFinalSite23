@@ -1,30 +1,30 @@
 - album: DS2
-  src: '/images/'
+  src: '/images/ds2.jpeg'
   alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  credit: By Amazon.com, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=47311253
+  spotify: https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl?si=Sl9AQACSQYOpEAI7_3lw8Q
 - album: Die Lit
-  src: '/images/'
+  src: '/images/dielit.jpeg'
   alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  credit: By Amazon.com, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=47311253
+  spotify: https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O?si=xd9eFS_ASoWViM3NMWR2hQ
 - album: Up 2 Me
-  src: '/images/'
+  src: '/images/up2me.png'
   alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  credit: By https://genius.com/albums/Yeat/Up-2-me, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=70491251
+  spotify: https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs?si=rBo2EwBvRiqV1lfikOLrXA
 - album: Whole lotta red
-  src: '/images/'
+  src: '/images/red.png'
   alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  credit: By Instagram, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=66188460
+  spotify: https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR?si=pvLnI4hTQMW3XpE-bC2T0w
 - album: Playboi Carti
-  src: '/images/'
+  src: '/images/playboi.jpeg'
   alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+  credit: By Playboi Carti - http://pitchfork.com/reviews/albums/23196-playboi-carti/, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=53856913
+  spotify: https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j?si=L1nEPdk2SC2e2--F5lHtjg
