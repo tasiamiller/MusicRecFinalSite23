@@ -1,30 +1,30 @@
 - artist: BTS
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+  src: '/images/bts.jpeg'
+  alt: Phot of Bangtan Sonyeondan or Bangtan Boys
+  credit: By Carolin von Petzholdt - https://www.youtube.com/watch?v=0jD63czLtcA, CC BY 3.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=112729125
   ticketmaster: "add link"
 - artist: TWICE
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+  src: '/images/twice.jpeg'
+  alt: Photo of TWICE
+  credit: By Steven Anthony Hammock - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=118308013
   ticketmaster: "add link"
 - artist: BLACKPINK
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+  src: '/images/blackpink.jpeg'
+  alt: Photo of Blackpink's PUBG Promos
+  credit: By Steven Anthony Hammock - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=118308013
   ticketmaster: "add link"
 - artist: Newjeans
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+  src: '/images/newjeans.jpeg'
+  alt: Photo of Newjeans 
+  credit: By theMEGASTUDY, CC BY 3.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=125303017
   ticketmaster: "add link"
 - artist: TXT
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+  src: '/images/txt.png'
+  alt: Photo of Tomorrow by Together
+  credit: By theMEGASTUDY, CC BY 3.0,
+  creditLink:  https://commons.wikimedia.org/w/index.php?curid=125303017
   ticketmaster: "add link"
