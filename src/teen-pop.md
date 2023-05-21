@@ -1,7 +1,7 @@
 ---
-title:Teen Pop
-layout:base.njk
-pageClass:pop
+title: Teen Pop
+layout: base.njk
+pageClass: pop
 ---
 <h1 class="subgenre-title"> Teen Pop<!-- sub genre name--></h1>
 
@@ -39,4 +39,5 @@ pageClass:pop
 </div>
 </section>
 
+<section class="back"><a href="/pop">Back to Pop</a></section>
 <!-- suggestion section, still figuring out how to format this using the bubble diagram from the wireframe-->
