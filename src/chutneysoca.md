@@ -1,18 +1,18 @@
 ---
-title: Funk
+title: ChutneySoca
 layout: base.njk
 pageClass: soca
 ---
-<h1 class="subgenre-title">Funk <!-- sub genre name--></h1>
+<h1 class="subgenre-title">ChutneySoca <!-- sub genre name--></h1>
 
-<p class="summary"> <!-- subgenre summary--></p>
+<p class="summary">Chutney music is a fusion genre of Indian folk music, specifically Bhojpuri folk music, with local Caribbean calypso and soca music, and later on Bollywood music. This genre of music that developed in Trinidad and Tobago is popular in Trinidad and Tobago, Guyana, Suriname, Jamaica, other parts of the Caribbean, Fiji, Mauritius, and South Africa. Chutney music emerged in the mid-20th century and reached a peak of popularity during the 1980s. Several sub-genres have developed. <!-- subgenre summary--></p>
 
 <!-- top album and artist section-->
 
 <section class="top">
     <h2>Top Artists</h2>
     <div class="artist">
-        {% for artist in artistsFunk %}
+        {% for artist in artistsChutneysoca %}
         <figure>
             <img src="{{artist.src}}" alt="{{artist.alt}}">
             <figcaption>
@@ -28,7 +28,7 @@ pageClass: soca
 <section class="top">
 <h2>Top Albums</h2>
 <div class="albums">
-    {% for album in albumsFunk %}
+    {% for album in albumsChutneysoca %}
     <figure>
         <img src="{{album.src}}" alt="{{album.alt}}">
         <figcaption>

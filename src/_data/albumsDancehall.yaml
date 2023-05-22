@@ -1,30 +1,30 @@
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+- album: Til Shiloh , Buju Banton
+  src: '/images/shiloh.jpeg'
+  alt: Til Shiloh by Buju Banton
+  credit: By Creator of this digital version is irrelevant as the copyright in all equivalent images is still held by the record company or the artist. I claim fair use regardless., Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=11926901
+  spotify: https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu?si=rya5qlGoQLCxUffRbyGfhg
+- album: Scorcha , Sean Paul
+  src: '/images/scorcha.jpeg'
+  alt: Scorcha by Sean Paul 
+  credit: By https://urbanislandz.com/2022/05/30/sean-paul-scorcha-album-review/, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=71059341
+  spotify: https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5?si=xeL83aJqSQGPTpfxzGupsA
+- album: More Fire , Capleton
+  src: '/images/morefire.jpeg'
+  alt: More Fire by Capleton
+  credit: By Amazon.com Amazon.com, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=22422490
+  spotify: https://open.spotify.com/album/2KQqKgArVZJWQG0391gs5R?si=F4BvCYJ4R82AxYSqUi85rA
+- album: Gifted , Koffee
+  src: '/images/gifted.jpeg'
+  alt: Gifted by Koffee
+  credit: By Koffee - amazon.com, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=71259170
+  spotify: https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi?si=kZlH8dVUTVWKXWQxNvMBjQ
+- album: Forever , Popcaan
+  src: '/images/forever.jpeg'
+  alt: Forever by Popcaan
+  credit: By https://pitchfork.com/reviews/albums/popcaan-forever/, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=61081934
+  spotify: https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq?si=kFV_QS1UQW-iIES7PPgmEw
