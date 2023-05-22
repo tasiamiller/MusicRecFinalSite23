@@ -17,6 +17,7 @@ This particular style gained immense popularity during the first to middle years
 <h1>Genres</h1>
 <section class="main">
 <div class="genre">
+    
     <a href="/hiphop" class="main-genre">
 <img src="..." alt="">
 <div>
