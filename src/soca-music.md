@@ -31,10 +31,10 @@ pageClass: soca
 </div>
 
 <div class="sub">
-    <a href="/funk" class="sub-link">
+    <a href="/chutneysoca" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3>Funk<!--sub genre name--></h3>
+<h3>Chutney Soca<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
 </a>
@@ -44,7 +44,7 @@ pageClass: soca
     <a href="/groove" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
-<h3>Groove<!--sub genre name--></h3>
+<h3>Groovy Soca<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
 </a>
