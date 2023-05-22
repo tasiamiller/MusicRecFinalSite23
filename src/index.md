@@ -17,7 +17,7 @@ This particular style gained immense popularity during the first to middle years
 <h1>Genres</h1>
 <section class="main">
 <div class="genre">
-    <a href="/hiphop" class="main-genre">
+    <a href="/hiphop">
 <img src="..." alt="">
 <div>
 <h4>Hip Hop</h4>
@@ -29,7 +29,7 @@ It is characterized by a rhythmic and rhyming speech that is accompanied by DJ s
 </div>
 
 <div class="genre">
-    <a href="/pop" class="main-genre">
+    <a href="/pop">
 <img src="...">
 <div>
 <h4>Pop</h4>
@@ -40,7 +40,7 @@ It is characterized by its catchy melodies, simple song structures, and relatabl
 </div>
 
 <div class="genre">
-    <a href="/soca-music" class="main-genre">
+    <a href="/soca-music">
 <img src="...">
 <div>
 <h4>Soca</h4>
