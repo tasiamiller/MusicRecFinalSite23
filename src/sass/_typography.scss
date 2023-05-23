@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Rubik:400,400i,700,700i');
-@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:400,500');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@600&display=swap');
 /* Optional, include a web font. @import must come before other styles. */
 
 /*  ==========================
@@ -16,7 +16,7 @@ html {
   
   body {
     // font-family: sans-serif;
-    font-family: Rubik, sans-serif; //remove or replace with you own font.
+    font-family: 'Jost', sans-serif; //remove or replace with you own font.
     font-weight: 400;
     line-height: 1.5;
     color: #333;
@@ -29,6 +29,7 @@ html {
   /* mess up your navigation styling */
   p,
   li {
+    font-family: 'Jost', sans-serif;
     margin-top: 0;
     margin-bottom: 1em;
   }
@@ -44,7 +45,7 @@ html {
   h6 {
     font-weight: 500;
     // font-family: serif;
-    font-family: 'Barlow Condensed', sans-serif; //remove or replace with you own font.
+    font-family: 'Bodoni Moda', serif; //remove or replace with you own font.
   }
   
   
