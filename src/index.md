@@ -5,8 +5,7 @@ tags: navItem
 pageClass: home
 ---
 
-<h1 class="logo center">Rythmic logo</h1>
-
+<img class="logo2 center" src="/images/logo.png" alt="Logo">
 <section class="spotlight genre">
 <figure class="fig-img-container">
 <img id="chipmunk" src="/images/chipmunk.png" alt="chipmunk scratching turntables (ai generated)">
@@ -52,7 +51,6 @@ It is characterized by a rhythmic and rhyming speech that is accompanied by DJ s
 <div class="desc">
 <h4>Pop</h4>
 <p>Pop music is a genre of popular music that originated in the 1950s as a blend of rock and roll, rhythm and blues, and country music.
-It is characterized by its catchy melodies, simple song structures, and relatable lyrics that are designed to appeal to a broad audience.
 </p></div> </a>
 </div>
 
