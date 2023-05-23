@@ -1,0 +1,30 @@
+- artist: Skepta
+  src: '/images/skepta.png'
+  alt: Photo of Skepta
+  credit: By 3voor12 - https://www.youtube.com/watch?v=-AhD5QGjxoY, CC BY 3.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=108187674
+  ticketmaster: "add link"
+- artist: Stormzy
+  src: '/images/stormzy.jpeg'
+  alt: Photo of Stormzy
+  credit: By Frank Schwichtenberg - This file was uploaded with Commonist., CC BY-SA 4.0
+  creditLink:  https://commons.wikimedia.org/w/index.php?curid=80526859
+  ticketmaster: "add link"
+- artist: Giggs
+  src: '/images/'
+  alt: 
+  credit: 
+  creditLink:
+  ticketmaster: "add link"
+- artist: Little Simz
+  src: '/images/simz.jpeg'
+  alt: Photo of Little Simz
+  credit: By GeorgeMichaelBaker - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=57174625
+  ticketmaster: "add link"
+- artist: Dave
+  src: '/images/dave.jpeg'
+  alt: Photo of Dave
+  credit: By SamuelWren98 - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=96896728
+  ticketmaster: "add link"
