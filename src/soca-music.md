@@ -70,6 +70,7 @@ pageClass: soca
 </div>
 
 <div class="genre">
+<a href="/reggaeton" class="sub-link">
   <figure class="fig-img-container">
             <img class="genre-img" src="/images/reggaeton.jpg" alt="Reggaeton">
             <figcaption class="img-caption">Created By:<a href="https://jettsamm.medium.com/just-how-popular-is-soca-music-7a2499fe63c9">Nigel A. Campbell</a>
