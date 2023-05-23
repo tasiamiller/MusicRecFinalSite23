@@ -19,10 +19,12 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
             <figcaption class="img-caption">Created By:<a href="https://www.istockphoto.com/vector/colorful-print-in-style-of-graffiti-with-a-text-hip-hop-music-vector-illustration-gm1222812945-358956659">iStock by Getty Images </a>
             </figcaption>
         </figure>
+
 <div class="desc">
 <h3>Abstract Hip Hop<!--sub genre name--></h3>
 <p>Abstract hip hop is a form of Hip Hop characterized by rappers employing more abstract lyrics compared to the conventional norms of the genre.
 <!-- short description of sub genre--></p>
+
 </div>
 </a>
 </div>
@@ -36,11 +38,10 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
         </figure>
 <div class="desc">
 <h3>Grime<!--sub genre name--></h3>
+
 <p>The grime rap genre is a style of music that originated in the United Kingdom, specifically in the London area, during the early 2000s. 
 <!-- short description of sub genre--></p>
-</div>
-</a>
-</div>
+
 
 
 <div class="genre">
@@ -50,10 +51,12 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
             <figcaption class="img-caption">Created By:<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FLoveKHIPHOP%2F&psig=AOvVaw0i0mXtNUj9NOjF3T6ZNY4F&ust=1684947673661000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjXza71i_8CFQAAAAAdAAAAABAE"> Khiphop - Korean Hiphop</a>
             </figcaption>
         </figure>
+
 <div class="desc">
 <h3>Korean Hip Hop<!--sub genre name--></h3>
 <p>Korean hip hop, also known as K-hip hop or K-rap, is a subgenre of Korean popular music.
  <!-- short description of sub genre--></p>
+
 </div>
 </a>
 </div>
@@ -69,6 +72,5 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
 <h3>Mumble Rap<!--sub genre name--></h3>
 <p>Mumble rap is known for its emphasis on the overall vibe and energy of the music rather than intricate lyricism or storytelling. 
 <!-- short description of sub genre--></p>
-</div>
 </a>
 </div>
