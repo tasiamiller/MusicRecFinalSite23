@@ -3,7 +3,7 @@ title: Groovy Soca
 layout: base.njk
 pageClass: soca
 ---
-<h1 class="subgenre-title">Groovy Soca <!-- sub genre name--></h1>
+<h1 class="center">Groovy Soca <!-- sub genre name--></h1>
 
 <p class="summary"> Though most of the early soca recordings of the 1970s were done at a groovy pace, Groovy soca was made popular as a trend and soca style starting with Robin Imamshah's composition "Frenchman" in 1990. The term groovy soca was coined in early 2005 by the ISM organizers as a re-branding of the slower tempo soca styles that had been popular in Trinidad and Tobago since the inception of soca music in early 1970s. <!-- subgenre summary--></p>
 

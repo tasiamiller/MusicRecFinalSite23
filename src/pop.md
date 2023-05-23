@@ -53,6 +53,7 @@ pageClass: pop
 <h3>Pop Rap<!--sub genre name--></h3>
 <p>Pop rap (also known as pop hip-hop, hip-pop, pop hop, melodic hip-hop, or melodic rap) is a genre of music fusing the rhythm-based lyricism of hip-hop music with pop music's preference for melodious vocals and catchy tunes. 
 <!-- short description of sub genre--></p>
+
 </div>
 </a>
 </div>
