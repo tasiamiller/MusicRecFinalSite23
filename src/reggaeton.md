@@ -1,7 +1,7 @@
 ---
-title:Reggaeton
-layout:base.njk
-pageClass:soca
+title: Reggaeton
+layout: base.njk
+pageClass: soca
 ---
 <h1 class="subgenre-title"> Raggaeton<!-- sub genre name--></h1>
 
@@ -43,3 +43,4 @@ pageClass:soca
 </section>
 <section class="back"><a href="/soca-music">Back to Soca Music</a></section>
 <!-- suggestion section, still figuring out how to format this using the bubble diagram from the wireframe-->
+

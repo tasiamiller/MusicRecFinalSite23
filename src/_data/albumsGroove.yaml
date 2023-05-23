@@ -1,30 +1,30 @@
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Heavenly Drum , Machel Montano
+  src: '/images/heavenlydrum.jpeg'
+  alt: Heavenly Drum by Machel Montano
+  credit: By May be found at the following website; http://www.machelmontanohd.com http://viewmorepics.myspace.com/index.cfm?fuseaction=viewImage&friendID=17816371&albumID=412016&imageID=62744672, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=23409004
+  spotify: https://open.spotify.com/album/0AJr6yW90RJONDOWgcTIpW?si=NJ5O_hvDR4OudEOdXK0Pbw
+- album: Global , Bunji Garlin
+  src: '/images/global.jpeg'
+  alt: Global by Bunji Garlin
+  credit: By http://www.mostwanted-online.nl/shop/catalog/images/VP1774.jpg, Fair use,
+  creditLink:  https://en.wikipedia.org/w/index.php?curid=17091251
   spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+- album: O.C.D , Lyrikal
+  src: '/images/ocd.jpg'
+  alt: O.C.D by Lyrikal
+  credit: Wayback Machine Archive
+  creditLink: https://web.archive.org/web/20140428042629/http://net.nigerianentertai.netdna-cdn.com/wp-content/uploads/2014/04/Lyrikal-OCD-Mixtape-Art.jpg
+  spotify: https://soundcloud.com/xcelmusiconline/sets/lyrikal-obsessive-compulsive
+- album: Teknique , Nailah Blackman
+  src: '/images/teknique.jpeg'
+  alt: Teknique by Nailah Blackman
+  credit: By Spotify
+  creditLink: 
+  spotify: https://open.spotify.com/album/6pZfEtXLvnilAuW2OxWxB5?si=a4zX6dhiS-Cg9nAf9TzCRA
+- album: Hooked On Soca , Farmer Nappy
+  src: '/images/hookedonsoca.jpg'
+  alt: Hooked On Soca by Farmer Nappy
+  credit: By Spotify
+  creditLink: 
+  spotify: https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd?si=xZIKm7pLTsaK29Xdn-crDw
