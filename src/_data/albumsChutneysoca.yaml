@@ -1,0 +1,24 @@
+- album: Chutney Soca , Drupatee Ramgoonai 
+  src: '/images/chutneysoca.jpg'
+  alt: Chutney Soca by Drupatee Ramgoonai
+  credit: By Spotify
+  creditLink:
+  spotify: https://open.spotify.com/album/7aHYJ5vAGbhqn4OQMi3lEg?si=cksnBkxhSTS4QsFw0xjXEQ
+- album: Roti & Dall , Terry Gajraj
+  src: '/images/rotianddall.jpg'
+  alt: Roti & Dall by Terry Gajraj
+  credit: Rate Your Music
+  creditLink: https://rateyourmusic.com/release/album/terry_gajraj/roti_and_dall/
+  spotify: https://soundcloud.com/terrygajraj/sets/roti-and-dall
+- album: In Style 2000 , Drupatee Ramgoonai 
+  src: '/images/instyle.jpg'
+  alt: In Style 2000 by Drupatee Ramgoonai
+  credit: by Rate Your Music
+  creditLink: https://rateyourmusic.com/release/album/drupatee-ramgoonai/in-style-2000/
+  spotify: https://music.apple.com/us/album/in-style-2000/1556354536
+- album: Karmageddon , Ravi B and Karma the Band
+  src: '/images/karma.jpg'
+  alt: Karmageddon by Ravi B and Karma the Band
+  credit: Last.fm
+  creditLink: https://www.last.fm/music/Ravi+B+and+Karma+the+Band/Karmageddon
+  spotify: https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc?si=ePX2xDKfTtm4C-MzVQSOow
