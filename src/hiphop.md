@@ -22,7 +22,8 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
 <div class="sub-info">
 <h3>Abstract Hip Hop<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
+<p>Abstract hip hop is a form of Hip Hop characterized by rappers employing more abstract lyrics compared to the conventional norms of the genre.
+<!-- short description of sub genre--></p>
 </div>
 </a>
 </div>
@@ -35,7 +36,8 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
         </figure>
 <div class="sub-info">
 <h3>Grime<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
+<p>The grime rap genre is a style of music that originated in the United Kingdom, specifically in the London area, during the early 2000s. 
+<!-- short description of sub genre--></p>
 </div>
 </a>
 </div>
@@ -49,7 +51,8 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
         </figure>
 <div class="sub-info">
 <h3>Korean Hip Hop<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
+<p>Korean hip hop, also known as K-hip hop or K-rap, is a subgenre of Korean popular music.
+ <!-- short description of sub genre--></p>
 </div>
 </a>
 </div>
@@ -63,7 +66,8 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
         </figure>
 <div class="sub-info">
 <h3>Mumble Rap<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
+<p>Mumble rap is known for its emphasis on the overall vibe and energy of the music rather than intricate lyricism or storytelling. 
+<!-- short description of sub genre--></p>
 </div>
 </a>
 </div>
