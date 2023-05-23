@@ -5,7 +5,7 @@ tags: navItem
 pageClass: home
 ---
 <section class="spotlight">
-<img id="chip" src="...">
+<img id="chip" src="..." alt="chipmunk scratching turntables (ai generated)">
 <div>
 <h2>Chipmunk Soul</h2>
 <h4>Category: <i>Hip Hop</i></h4>
@@ -17,9 +17,9 @@ This particular style gained immense popularity during the first to middle years
 <h1>Genres</h1>
 <section class="main">
 <div class="genre">
-    
-    <a href="/hiphop" class="main-genre">
-<img src="...">
+
+    <a href="/hiphop">
+<img src="..." alt="">
 <div>
 <h4>Hip Hop</h4>
 <p>Hip hop is a cultural movement and music genre that originated in African American and Latino communities in the Bronx, New York City in the 1970s. 
@@ -30,7 +30,7 @@ It is characterized by a rhythmic and rhyming speech that is accompanied by DJ s
 </div>
 
 <div class="genre">
-    <a href="/pop" class="main-genre">
+    <a href="/pop">
 <img src="...">
 <div>
 <h4>Pop</h4>
@@ -41,7 +41,7 @@ It is characterized by its catchy melodies, simple song structures, and relatabl
 </div>
 
 <div class="genre">
-    <a href="/soca-music" class="main-genre">
+    <a href="/soca-music">
 <img src="...">
 <div>
 <h4>Soca</h4>
