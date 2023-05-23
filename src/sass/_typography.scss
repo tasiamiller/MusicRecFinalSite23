@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Rubik:400,400i,700,700i');
-@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:400,500');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@600&display=swap');
 /* Optional, include a web font. @import must come before other styles. */
 
 /*  ==========================
@@ -16,7 +16,7 @@ html {
   
   body {
     // font-family: sans-serif;
-    font-family: Rubik, sans-serif; //remove or replace with you own font.
+    font-family: 'Jost', sans-serif; //remove or replace with you own font.
     font-weight: 400;
     line-height: 1.5;
     color: #333;
@@ -29,6 +29,7 @@ html {
   /* mess up your navigation styling */
   p,
   li {
+    font-family: 'Jost', sans-serif;
     margin-top: 0;
     margin-bottom: 1em;
   }
@@ -36,16 +37,21 @@ html {
   
   /* Base Styling for headings.
     You can and should modify these to fit your site*/
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h1{
     font-weight: 500;
     // font-family: serif;
-    font-family: 'Barlow Condensed', sans-serif; //remove or replace with you own font.
+    font-family: 'Bodoni Moda', serif;
+    color: #543D7B; //remove or replace with you own font.
   }
+  h2,
+  h3,
+  h4{
+    font-weight: 500;
+    // font-family: serif;
+    font-family: 'Bodoni Moda', serif;
+    color: #6D5593; //remove or replace with you own font.
+  }
+  
   
   
   /* For each of your headings at minimum set the margin, size, line-height. 
