@@ -1,7 +1,7 @@
 ---
-title:Reggaeton
-layout:base.njk
-pageClass:soca
+title: Reggaeton
+layout: base.njk
+pageClass: soca
 ---
 <h1 class="subgenre-title"> Raggaeton<!-- sub genre name--></h1>
 
