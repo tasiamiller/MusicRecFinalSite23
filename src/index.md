@@ -5,7 +5,9 @@ tags: navItem
 pageClass: home
 ---
 
-<h1 class="logo center">Rythmic logo</h1>
+<img id="logo" src="/images/rythmic.png">
+
+
 
 <section class="spotlight genre">
 <figure class="fig-img-container">
