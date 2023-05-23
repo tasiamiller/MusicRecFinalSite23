@@ -1,5 +1,5 @@
 ---
-title: Abstract HipHop
+title: Abstract Hip Hop
 layout: base.njk
 pageClass: hiphop
 ---

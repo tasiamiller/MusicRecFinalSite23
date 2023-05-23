@@ -1,30 +1,30 @@
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Body Talk
+  src: '/images/bodytalk.png'
+  alt: Body talk Album Cover
+  credit: By The cover art can be obtained from Konichiwa Records., Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=47883678 
   spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Future Nostalgia
+  src: '/images/future nostalgia.png'
+  alt: Future Nostalgia Album Cover 
+  credit: By May be found at the following website; https://music.apple.com/us/album/future-nostalgia/1495799403, Fair use,
+  creditLink: https://en.wikipedia.org/w/index.php?curid=62974038
   spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Number Ones 
+  src: '/images/numberones.png'
+  alt: Number Ones Album Cover
+  credit: By MojoCincy, Fair use,
+  creditLink: https://en.wikipedia.org/w/index.php?curid=34957692
   spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Dawn Fm
+  src: '/images/DawnFm.png'
+  alt:  Dawn Fm Album Cover 
+  credit: By https://twitter.com/theweeknd/status/1478366161343434754, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=69673494
   spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Sawayama
+  src: '/images/sawayama.png'
+  alt: Sawayama Album Cover
+  credit: By Apple Music, Fair use, 
+  creditLink:  https://en.wikipedia.org/w/index.php?curid=66463906
   spotify: "add link"
