@@ -3,7 +3,7 @@ title: Pop
 layout: base.njk
 pageClass: pop
 ---
-<h1 class="main-genre">Pop</h1>
+<h1 class="center">Pop</h1>
 <img src=""> <!-- image depicting the genre-->
 
 <p class="summary">Pop music is a genre of popular music that originated in its modern form during the mid-1950s in the United States and the United Kingdom. The terms popular music and pop music are often used interchangeably, although the former describes all music that is popular and includes many disparate styles. During the 1950s and 1960s, pop music encompassed rock and roll and the youth-oriented styles it influenced. Rock and pop music remained roughly synonymous until the late 1960s, after which pop became associated with music that was more commercial, ephemeral, and accessible. 
@@ -12,17 +12,17 @@ Although much of the music that appears on record charts is considered to be pop
 
                     <!-- sub genre selection-->
                     
-<div class="sub">
+<div class="genre">
     <a href="/dance-pop" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
-<div class="sub-info">
+<div class="desc">
 <h3>Dance Pop<!--sub genre name--></h3>
 <p> <!-- short description of sub genre--></p>
 </div>
 </a>
 </div>
 
-<div class="sub">
+<div class="genre">
     <a href="/korean-pop" class="sub-link">
 <a href="/korean-hiphop" class="sub-link">
         <figure class="fig-img-container">
@@ -30,17 +30,17 @@ Although much of the music that appears on record charts is considered to be pop
             <figcaption class="img-caption">Created By:<a href="https://fpictures.homes/korean-music-logo"> Korean Music Logo Gallery</a>
             </figcaption>
         </figure>
-<div class="sub-info">
+<div class="desc">
 <h3>Korean Pop (K-pop)<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
 </a>
 </div>
 
-<div class="sub">
+<div class="genre">
     <a href="/pop-rap" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
-<div class="sub-info">
+<div class="desc">
 <h3>Pop Rap<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
@@ -49,20 +49,20 @@ Although much of the music that appears on record charts is considered to be pop
 
 
 
-<div class="sub">
+<div class="genre">
     <a href="/rnb" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
-<div class="sub-info">
+<div class="desc">
 <h3>Rhythim And Blues(RNB)<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
 </a>
 </div>
 
-<div class="sub">
+<div class="genre">
     <a href="/soul" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
-<div class="sub-info">
+<div class="desc">
 <h3>Soul<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
 </div>
