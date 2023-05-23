@@ -3,7 +3,7 @@ title: Korean Pop (K-pop)
 layout: base.njk
 pageClass: pop
 ---
-<h1 class="subgenre-title">Korean Pop <!-- sub genre name--></h1>
+<h1 class="center">Korean Pop <!-- sub genre name--></h1>
 
 <p class="summary">K-pop (Korean: 케이팝; RR: keipap), short for Korean popular music, is a form of popular music originating in South Korea as part of South Korean culture. It includes styles and genres from around the world, such as pop, hip hop, R&B, rock, jazz, gospel, reggae, electronic dance, folk, country, disco, and classical on top of its traditional Korean music roots. The term "K-pop" became popular in the 2000s, especially in the international context. The Korean term for domestic pop music is gayo (Korean: 가요; Hanja: 歌謠), which is still widely used within South Korea. While "K-pop" can refer to all popular music or pop music from South Korea, it is colloquially often used in a narrower sense for any Korean music and artists associated with the entertainment and idol industry in the country, regardless of the genre.  <!-- subgenre summary--></p>
 
