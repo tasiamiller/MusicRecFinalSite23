@@ -5,8 +5,7 @@ tags: navItem
 pageClass: home
 ---
 
-<h1 class="logo center">Rythmic logo</h1>
-
+<img class="logo2 center" src="/images/logo.png" alt="Logo">
 <section class="spotlight genre">
 <figure class="fig-img-container">
 <img id="chipmunk" src="/images/chipmunk.png" alt="chipmunk scratching turntables (ai generated)">

@@ -34,7 +34,8 @@ pageClass: soca
         </figure>
 <div class="desc">
 <h3>Dancehall<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
+<p>Dancehall is a genre of Jamaican popular music that originated in the late 1970s. Initially, dancehall was a more sparse version of reggae than the roots style, which had dominated much of the 1970s.
+<!-- short description of sub genre--></p>
 </div>
 </a>
 </div>
