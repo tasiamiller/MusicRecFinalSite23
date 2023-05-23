@@ -5,7 +5,8 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addWatchTarget("./src/css/");
     eleventyConfig.addPassthroughCopy("./src/images/");
     eleventyConfig.addPassthroughCopy("./src/js/");
-    
+    eleventyConfig.addDataExtension('yaml', contents => yaml.load(contents));
+
     eleventyConfig.addLayoutAlias('base', 'base.njk');
 
     // Return your Object options:
@@ -13,7 +14,9 @@ module.exports = function(eleventyConfig) {
       markdownTemplateEngine: 'njk',
       dir: {
         input: "src",
-        output: "public"
+        output: "public",
+        data: '_data',
+
       }
     }
 };

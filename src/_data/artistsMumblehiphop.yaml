@@ -1,0 +1,24 @@
+- artist: Playboi Carti
+  src: '/images/carti.jpeg'
+  alt: 
+  credit: By The Come Up Show - https://www.flickr.com/photos/thecomeupshow/31146866302/, CC BY 2.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=113599097
+  ticketmaster: https://www.ticketmaster.com/playboi-carti-tickets/artist/2123805
+- artist: Yeat
+  src: '/images/yeat.png'
+  alt: 
+  credit: By 16.Osc - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=124107797
+  ticketmaster: https://www.ticketmaster.com/yeat-tickets/artist/2867880
+- artist: Lil Yachty
+  src: '/images/lilyachty.jpeg'
+  alt: 
+  credit: By 16.Osc - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=124107797
+  ticketmaster: https://www.ticketmaster.com/lil-yachty-tickets/artist/2240244
+- artist: Future
+  src: '/images/future.jpeg'
+  alt: 
+  credit: By 16.Osc - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=124107797
+  ticketmaster: https://www.songkick.com/artists/178809-future

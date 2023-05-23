@@ -1,0 +1,30 @@
+- artist: Sean Paul
+  src: '/images/seanpaul.jpeg'
+  alt: Photo of Sean Paul in 2015
+  credit: By UNclimatechange from Bonn, Germany - Sean Paul, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=124555005
+  ticketmaster: https://www.ticketmaster.com/sean-paul-tickets/artist/842523
+- artist: Spice
+  src: '/images/spice.jpeg'
+  alt: 
+  credit: By Jean Laurenceau - https://www.instagram.com/p/BwF7Hrzh9tV/, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=77991368
+  ticketmaster: https://www.ticketmaster.com/spice-tickets/artist/719766
+- artist: Popcaan
+  src: '/images/popcaan.jpeg'
+  alt: 
+  credit: By © Emha / Wikimedia Commons / CC-BY-SA-3.0-DE, CC BY-SA 3.0 de, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=37965364
+  ticketmaster: https://www.ticketmaster.com/popcaan-tickets/artist/1695496
+- artist: Beenie Man
+  src: '/images/beenieman.jpeg'
+  alt: 
+  credit: By Aaron J Douglas Williams - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=67377882
+  ticketmaster: https://www.ticketmaster.com/beenie-man-tickets/artist/760200
+- artist: Shaggy
+  src: '/images/shaggy.jpeg'
+  alt: 
+  credit: By Raph_PH - https://www.flickr.com/photos/raph_ph/27885225668/in/album-72157695502428854/, CC BY 2.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=69129987
+  ticketmaster: https://www.ticketmaster.com/shaggy-tickets/artist/774822

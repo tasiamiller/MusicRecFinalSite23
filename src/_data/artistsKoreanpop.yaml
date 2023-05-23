@@ -1,0 +1,30 @@
+- artist: BTS
+  src: '/images/bts.jpeg'
+  alt: Phot of Bangtan Sonyeondan or Bangtan Boys
+  credit: By Carolin von Petzholdt - https://www.youtube.com/watch?v=0jD63czLtcA, CC BY 3.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=112729125
+  ticketmaster: https://www.ticketmaster.com/bts-tickets/artist/2110227
+- artist: TWICE
+  src: '/images/twice.jpeg'
+  alt: Photo of TWICE
+  credit: By Steven Anthony Hammock - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=118308013
+  ticketmaster: https://www.ticketmaster.com/twice-tickets/artist/2548848
+- artist: BLACKPINK
+  src: '/images/blackpink.jpeg'
+  alt: Photo of Blackpink's PUBG Promos
+  credit: By Steven Anthony Hammock - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=118308013
+  ticketmaster: https://www.ticketmaster.com/blackpink-tickets/artist/2590072
+- artist: Newjeans
+  src: '/images/newjeans.jpeg'
+  alt: Photo of Newjeans 
+  credit: By theMEGASTUDY, CC BY 3.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=125303017
+  ticketmaster: https://www.ticketmaster.com/newjeans-tickets/artist/3016768
+- artist: TXT
+  src: '/images/txt.png'
+  alt: Photo of Tomorrow by Together
+  credit: By theMEGASTUDY, CC BY 3.0,
+  creditLink:  https://commons.wikimedia.org/w/index.php?curid=125303017
+  ticketmaster: https://www.ticketmaster.com/tomorrow-x-together-tickets/artist/2631116

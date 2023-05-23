@@ -2,3 +2,54 @@
   ADD YOUR LAYOUT CSS HERE
   ================================================ */
 //This is not necessary. Opinionated to remove default margin from body to allow things to go all the way across the screen.
+
+
+.logo, .center{
+  text-align: center;
+}
+
+.genre{
+  width: 750px;
+  background-color:beige;
+  margin: 0 auto;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.genre #img{
+  width: 500px;
+}
+
+.desc{
+  grid-column: 2/3;
+  padding-left: 25px;
+}
+
+.albums, .artist{
+  text-align: center;
+  margin-bottom: 50px;
+  justify-content: space-between;
+}
+
+.top{
+  text-align: center;
+}
+
+.artist img{
+  border-radius: 1150px;
+}
+
+.summary{
+  width: 750px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.footer{
+  margin-left: 500px;
+}
+
+.footer ul li{
+  list-style: none;
+}

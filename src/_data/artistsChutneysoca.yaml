@@ -1,0 +1,30 @@
+- artist: Rikki Jai
+  src: '/images/rikkijai.jpg'
+  alt: 
+  credit: Trinidad Express
+  creditLink: https://trinidadexpress.com/features/local/rikki-jai-trini-christmas-is-the-best/article_a1774b00-245e-11ea-a4d5-6f84e0f00fe8.html
+  ticketmaster: https://seatgeek.com/rikki-jai-tickets
+- artist: Ravi B
+  src: '/images/ravib.jpg'
+  alt: 
+  credit: Trinidad Express
+  creditLink: https://trinidadexpress.com/features/local/a-different-side-of-chutney-music/article_876f4580-34cd-11ea-8798-f7c2a14b10c8.html
+  ticketmaster: https://www.bandsintown.com/a/1450014-ravi-b
+- artist: Drupatee Ramgoonai
+  src: '/images/drupatee.jpg'
+  alt: 
+  credit: Last.fm
+  creditLink: https://www.last.fm/music/Drupatee+Ramgoonai
+  ticketmaster: https://seatgeek.com/drupatee-ramgoonai-tickets
+- artist: Ashni
+  src: '/images/ashni.png'
+  alt: Photo of Ashni
+  credit: Ashni Music , photo by Katelyn Kopenhaver
+  creditLink: https://www.ashnimusic.com/about
+  ticketmaster: https://www.bandsintown.com/a/5855973-ashni?came_from=251&utm_medium=web&utm_source=artist_page&utm_campaign=search_bar
+- artist: Adesh Samaroo
+  src: '/images/adesh.png'
+  alt: Photo of Adesh Samaroo
+  credit: Last.fm
+  creditLink: https://www.last.fm/music/Adesh+Samaroo/+images/b1ee2f6e45494840bc35188d7f8317cc
+  ticketmaster: https://www.bandsintown.com/a/62957-adesh-samaroo?came_from=251&utm_medium=web&utm_source=artist_page&utm_campaign=search_bar
