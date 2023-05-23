@@ -24,7 +24,12 @@ Although much of the music that appears on record charts is considered to be pop
 
 <div class="sub">
     <a href="/korean-pop" class="sub-link">
-<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<a href="/korean-hiphop" class="sub-link">
+        <figure class="fig-img-container">
+            <img class="genre-img" src="/images/koreanpop.jpg" alt="korean Pop">
+            <figcaption class="img-caption">Created By:<a href="https://fpictures.homes/korean-music-logo"> Korean Music Logo Gallery</a>
+            </figcaption>
+        </figure>
 <div class="sub-info">
 <h3>Korean Pop (K-pop)<!--sub genre name--></h3>
 <p><!-- short description of sub genre--></p>
