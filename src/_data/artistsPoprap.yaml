@@ -1,30 +1,30 @@
-- artist: 
-  src: '/images/'
+- artist: Eminem
+  src: '/images/Eminem.jpeg'
   alt: 
-  credit: 
-  creditLink:
+  credit: By DoD News Features - This file has been extracted from another file, Public Domain, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=53857948
   ticketmaster: "add link"
-- artist: 
-  src: '/images/'
+- artist: Kanye West
+  src: '/images/Kanye West.jpeg'
   alt: 
-  credit: 
-  creditLink:
+  credit: By David Shankbone - Own work, Public Domain, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=102843689
   ticketmaster: "add link"
-- artist: 
-  src: '/images/'
+- artist: J Cole
+  src: '/images/J cole.png'
   alt: 
-  credit: 
-  creditLink:
+  credit: By 3voor12Youtube - J Cole - Live at WOO HAH! 2018https://www.youtube.com/watch?v=e_7owyK5Cqo3voor12, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=79067065
   ticketmaster: "add link"
-- artist: 
-  src: '/images/'
+- artist: Drake
+  src: '/images/drake.jpeg'
   alt: 
-  credit: 
-  creditLink:
+  credit: By The Come Up Show - https://www.flickr.com/photos/thecomeupshow/28082662994/in/album-72157671052327671/, CC BY 2.5, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=54081940
   ticketmaster: "add link"
-- artist: 
-  src: '/images/'
+- artist: Snoop Dogg
+  src: '/images/Snoop Dogg.jpeg'
   alt: 
-  credit: 
-  creditLink:
+  credit: By Toglenn - Own work, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=80902460
   ticketmaster: "add link"
