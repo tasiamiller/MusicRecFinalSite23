@@ -27,7 +27,7 @@ This particular style gained immense popularity during the first to middle years
 <a href="/hiphop">
 <section class="main">
 <div class="genre">
-<figure class="fig-img-container">
+<figure class="fig-img-container" id="hh">
 <img class="genre-img" src="/images/hiphop.png" alt="Hip Hop">
 <figcaption class="img-caption">Created By:<a href="https://www.vectorstock.com/royalty-free-vector/hip-hop-music-party-in-graffiti-style-vector-23254684">Vector Stock</a>
 </figcaption>
@@ -44,7 +44,7 @@ It is characterized by a rhythmic and rhyming speech that is accompanied by DJ s
 <section class="main">
 <div class="genre">
 <a href="/pop">
-<figure class="fig-img-container">
+<figure class="fig-img-container fix">
 <img class="genre-img" src="/images/pop.png" alt="Pop">
 <figcaption class="img-caption">Created By:<a href="https://www.vectorstock.com/royalty-free-vector/colorful-detailed-pop-music-can-vector-19847709">Vector Stock</a>
 </figcaption>
@@ -58,8 +58,8 @@ It is characterized by its catchy melodies, simple song structures, and relatabl
 
 <div class="genre">
 <a href="/soca-music">
-<figure class="fig-img-container">
-<img class="genre-img" src="/images/soca.jpg" alt="Soca">
+<figure class="fig-img-container fix">
+<img class="genre-img fix" src="/images/soca.jpg" alt="Soca">
 <figcaption class="img-caption">Created By:<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Frealsoca%2F&psig=AOvVaw1QX9VR-5gWBKaVrsT6Dwmt&ust=1684945387923000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCYuuzsi_8CFQAAAAAdAAAAABAF">Real Soca (Facebook) </a>
 </figcaption>
 </figure>

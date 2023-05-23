@@ -28,6 +28,7 @@
 .desc{
   grid-column: 3/6;
   padding-left: 25px;
+  margin-right: 50px;
 }
 
 .desc h4, .desc h3{
@@ -40,6 +41,10 @@
   text-align: center;
   justify-content: space-between;
   margin-top: 50px;
+}
+
+figcaption{
+  margin: 5px 5px 5px 5px ;
 }
 
 .albums img{
@@ -72,4 +77,11 @@
 .footer ul li{
   list-style: none;
 }
+
+.genre:hover {
+  -webkit-box-shadow: 4px 2px 15px -2px #000000; 
+box-shadow: 4px 2px 15px -2px #000000;
+}
+
+
 
