@@ -19,9 +19,13 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
             <figcaption class="img-caption">Created By:<a href="https://www.istockphoto.com/vector/colorful-print-in-style-of-graffiti-with-a-text-hip-hop-music-vector-illustration-gm1222812945-358956659">iStock by Getty Images </a>
             </figcaption>
         </figure>
-<div class="desc">
-<h3>Abstract Hip Hop<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
+
+<img src=""> <!-- image of popular album or artist from said sub-genre-->
+<div class="sub-info">
+
+<h3>Abstract Hiphop<!--sub genre name--></h3>
+<p>Abstract hip hop is a form of Hip Hop characterized by rappers employing more abstract lyrics compared to the conventional norms of the genre. The content of the lyrics encompasses a wide spectrum, ranging from philosophical and abstract concepts to absurd and stream-of-consciousness ideas. In contrast to the direct and explicit language commonly found in mainstream hip hop, abstract hip hop favors the use of extensive metaphors, symbolic word choices, and enigmatic meanings. Many artists within this style deviate from the usual conventions of rhyme and rhythm in their rapping, instead incorporating unconventional poetic meters that sometimes resemble Spoken Word. Moreover, abstract hip hop musicians often feature unconventional beats that complement the unorthodox lyrical approach, often blurring the lines with Experimental Hip Hop. </p>
+
 </div>
 </a>
 </div>
@@ -35,7 +39,7 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
         </figure>
 <div class="desc">
 <h3>Grime<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
+<p>The grime rap genre is a style of music that originated in the United Kingdom, specifically in the London area, during the early 2000s. It emerged as a fusion of UK garage, dancehall, and hip hop, with influences from other genres such as drum and bass. Grime is characterized by its fast-paced, aggressive, and energetic sound, often featuring rapid-fire and intricate lyricism delivered in a distinctive British accent. </p>
 </div>
 </a>
 </div>
@@ -48,9 +52,13 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
             <figcaption class="img-caption">Created By:<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FLoveKHIPHOP%2F&psig=AOvVaw0i0mXtNUj9NOjF3T6ZNY4F&ust=1684947673661000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjXza71i_8CFQAAAAAdAAAAABAE"> Khiphop - Korean Hiphop</a>
             </figcaption>
         </figure>
-<div class="desc">
-<h3>Korean Hip Hop<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
+
+<h3>Korean HipHop<!--sub genre name--></h3>
+<p>Korean hip hop, also known as K-hip hop or K-rap, is a subgenre of Korean popular music.  
+It is widely considered to have originated in the late 1980s and early 1990s, and has since become increasingly popular, both in Korea and abroad.  
+While Korea's hip hop culture includes various elements such as rap, graffiti, DJing, turntablism, and b-boying, rapping comprises a significant part of the culture. The term "hip hop" is largely recognized and understood as "rap" in Korea. The interplay between the Korean language and English has been used as a technical and aesthetic device in Korean hip-hop. Many Korean hip-hop songs boast syllabic similarities that could be interpreted in either language. The bilingual aspect of this music is one distinguishing factor between Korean hip hop and American hip hop. 
+As early-stage Korean hip-hop was heavily influenced by African-American hip-hop, Korean hip-hop artists naturally started using AAVE in their lyrics. The dominance of Korean-Americans in the Korean hip-hop scene also contributed to the use of mixed languages in Korean hip-hop. English-speaking Korean diaspora artists such as Drunken Tiger, Epik High's Tablo, Swings, Jay Park, and San E have included English lyrics in their raps and attracted the interest of the young generation. </p>
+
 </div>
 </a>
 </div>
@@ -64,7 +72,7 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
         </figure>
 <div class="desc">
 <h3>Mumble Rap<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
+<p>Mumble rap is known for its emphasis on the overall vibe and energy of the music rather than intricate lyricism or storytelling. The lyrics often prioritize catchy phrases, ad-libs, and repetitive rhymes over deep meaning or complex wordplay. As the name suggests, mumble rap artists sometimes deliver their vocals in a way that can be difficult to understand or decipher, with a focus on the flow and melody rather than clear articulation. </p>
 </div>
 </a>
 </div>
