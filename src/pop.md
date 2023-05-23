@@ -6,7 +6,7 @@ pageClass: pop
 <h1 class="center">Pop</h1>
 <img src=""> <!-- image depicting the genre-->
 
-<p class="summary">Pop music is a genre of popular music that originated in its modern form during the mid-1950s in the United States and the United Kingdom.
+<p class="summary">Pop music is a genre of popular music that originated in its modern form during the mid-1950s in the United States and the United Kingdom. It is characterized by its catchy melodies, simple song structures, and relatable lyrics that are designed to appeal to a broad audience.
     <!-- summary of main genre here--> </p>
 
                     <!-- sub genre selection-->

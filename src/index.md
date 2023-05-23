@@ -52,7 +52,6 @@ It is characterized by a rhythmic and rhyming speech that is accompanied by DJ s
 <div class="desc">
 <h4>Pop</h4>
 <p>Pop music is a genre of popular music that originated in the 1950s as a blend of rock and roll, rhythm and blues, and country music.
-It is characterized by its catchy melodies, simple song structures, and relatable lyrics that are designed to appeal to a broad audience.
 </p></div> </a>
 </div>
 
