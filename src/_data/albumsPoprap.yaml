@@ -1,30 +1,29 @@
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: My Beautiful Dark Twisted Fantasy
+  src: '/images/My beautiful dark Twisted Fantasy.jpeg'
+  alt:  My Beautiful Dark Twisted Fantasy Album Coveer
+  credit: By The cover art can be obtained from Def Jam Recordings., Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=37180912
   spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Coloring Book
+  src: '/images/coloring book.png'
+  alt: Coloring Book Album Cover
+  credit: By The cover art can be obtained from the record label., Fair use,
+  creditLink: https://en.wikipedia.org/w/index.php?curid=53173448
   spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Supa Dupa Fly
+  src: '/images/supa dupa fly.jpeg'
+  alt: Supa Dupa Fly Album Cover  
+  credit: By Derived from a digital capture of the album cover (creator of this digital version is irrelevant as the copyright in all equivalent images is still held by the same party). Copyright held by the record label or the artist. Claimed as fair use regardless., Fair use, 
   spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Speakerboxxx/The love Below
+  src: '/images/Speakerboxxx:The Love Below.jpeg'
+  alt: Speakerboxxx/The Love Below.jpeg Alums Cover
+  credit: By Derived from a digital capture of the album cover (creator of this digital version is irrelevant as the copyright in all equivalent images is still held by the same party). Copyright held by the record company or the artist. Claimed as fair use regardless., Fair use, 
+  creditLink:  https://en.wikipedia.org/w/index.php?curid=1574598
   spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
+- album: Kids See Ghosts
+  src: '/images/kids See Ghost.png'
+  alt: Kids See Ghosts Ablum.png
+  credit: By The cover art can be obtained from Good and Def Jam., Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=64777813
   spotify: "add link"
