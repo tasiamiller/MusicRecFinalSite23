@@ -63,7 +63,6 @@ It is characterized by its catchy melodies, simple song structures, and relatabl
 <img class="genre-img" src="/images/soca.jpg" alt="Soca">
 <figcaption class="img-caption">Created By:<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Frealsoca%2F&psig=AOvVaw1QX9VR-5gWBKaVrsT6Dwmt&ust=1684945387923000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCYuuzsi_8CFQAAAAAdAAAAABAF">Real Soca (Facebook) </a>
 </figcaption>
-</figure>
 <div>
 <h4>Soca</h4>
 <p>Soca is a genre of music that originated in Trinidad and Tobago in the late 1970s. 
