@@ -3,9 +3,12 @@
   ================================================ */
 //This is not necessary. Opinionated to remove default margin from body to allow things to go all the way across the screen.
 
-
 .logo, .center{
   text-align: center;
+}
+
+.center{
+  font-size: 70px;
 }
 
 .genre{
@@ -15,6 +18,7 @@
   display: grid;
   grid-template-columns: repeat(5, 20%);
   margin-bottom: 50px;
+  margin-top: 100px;
 }
 
 .fig-img-container{
@@ -24,6 +28,11 @@
 .desc{
   grid-column: 3/6;
   padding-left: 25px;
+  margin-right: 50px;
+}
+
+.desc h4, .desc h3{
+  font-size: 30px;
 }
 
 .albums, .artist{
@@ -32,6 +41,10 @@
   text-align: center;
   justify-content: space-between;
   margin-top: 50px;
+}
+
+figcaption{
+  margin: 5px 5px 5px 5px ;
 }
 
 .albums img{
@@ -51,7 +64,7 @@
 }
 
 .summary{
-  width: 750px;
+  width: 1000px;
   margin: 0 auto;
   margin-bottom: 100px;
   margin-top: 50px;
@@ -64,4 +77,11 @@
 .footer ul li{
   list-style: none;
 }
+
+.genre:hover {
+  -webkit-box-shadow: 4px 2px 15px -2px #000000; 
+box-shadow: 4px 2px 15px -2px #000000;
+}
+
+
 
