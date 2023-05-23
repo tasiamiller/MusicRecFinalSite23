@@ -42,6 +42,21 @@ It is characterized by a rhythmic and rhyming speech that is accompanied by DJ s
 </div>
 
 
+            <section class="main">
+                <div class="genre">
+                <div id="img">
+                <a href="/pop"><img src="/images/MBDTF.jpg" alt=""></a>
+                </div>
+                <div class="desc">
+                <a href="/pop"><h4>Pop</h4></a>
+                <p>Hip Hop is a cultural movement and music genre that originated in African American and Latino communities in the Bronx, New York City in the 1970s. 
+                It is characterized by a rhythmic and rhyming speech that is accompanied by DJ scratching, beatboxing, and music production.
+                </p>
+                </div>
+                    </a>
+                </div>
+
+
 <section class="main">
 <div class="genre">
 <a href="/pop">
