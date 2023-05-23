@@ -1,7 +1,7 @@
 ---
-title: Dancehall
+title: Pop
 layout: base.njk
-pageClass: soca
+pageClass: pop
 ---
 <h1 class="main-genre">Pop</h1>
 <img src=""> <!-- image depicting the genre-->
