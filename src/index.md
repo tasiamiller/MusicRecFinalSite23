@@ -22,7 +22,7 @@ This particular style gained immense popularity during the first to middle years
  <section class="main">
 <div class="genre">
 <div id="img">
-<a href="main.html"><img src="/images/MBDTF.jpg" alt=""></a>
+<a href="/"><img src="/images/MBDTF.jpg" alt=""></a>
 </div>
             <div class="desc">
             <a href="/hiphop"><h4>Hip Hop</h4></a>
@@ -36,7 +36,7 @@ This particular style gained immense popularity during the first to middle years
             <section class="main">
                 <div class="genre">
                 <div id="img">
-                <a href="/hiphop"><img src="/images/MBDTF.jpg" alt=""></a>
+                <a href="/pop"><img src="/images/MBDTF.jpg" alt=""></a>
                 </div>
                 <div class="desc">
                 <h4>Pop</h4>
@@ -50,7 +50,7 @@ This particular style gained immense popularity during the first to middle years
                 <section class="main">
                     <div class="genre">
                     <div id="img">
-                    <a href="/hiphop"><img src="/images/MBDTF.jpg" alt=""></a>
+                    <a href="/soca-music"><img src="/images/MBDTF.jpg" alt=""></a>
                     </div>
                     <div class="desc">
                     <h4>Soca</h4>
