@@ -47,18 +47,6 @@ Although much of the music that appears on record charts is considered to be pop
 </a>
 </div>
 
-
-
-<div class="genre">
-    <a href="/rnb" class="sub-link">
-<img src=""> <!-- image of popular album or artist from said sub-genre-->
-<div class="desc">
-<h3>Rhythim And Blues(RNB)<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
-</div>
-</a>
-</div>
-
 <div class="genre">
     <a href="/soul" class="sub-link">
 <img src=""> <!-- image of popular album or artist from said sub-genre-->
