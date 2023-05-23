@@ -5,25 +5,25 @@
 
                                             <!-- sub genre selection-->
                                             
-        <div class="sub">
+        <div class="genre">
             <img src=""> <!-- image of popular album or artist from said sub-genre-->
-            <div class="sub-info">
+            <div class="desc">
                 <h3><!--sub genre name--></h3>
                 <p><!-- short description of sub genre--></p>
             </div>
         </div>
 
-        <div class="sub">
+        <div class="genre">
             <img src=""> <!-- image of popular album or artist from said sub-genre-->
-            <div class="sub-info">
+            <div class="desc">
                 <h3><!--sub genre name--></h3>
                 <p><!-- short description of sub genre--></p>
             </div>
         </div>
 
-        <div class="sub">
+        <div class="genre">
             <img src=""> <!-- image of popular album or artist from said sub-genre-->
-            <div class="sub-info">
+            <div class="desc">
                 <h3><!--sub genre name--></h3>
                 <p><!-- short description of sub genre--></p>
             </div>
