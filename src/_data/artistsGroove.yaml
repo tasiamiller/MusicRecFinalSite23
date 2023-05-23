@@ -1,30 +1,30 @@
-- artist: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  ticketmaster: "add link"
-- artist: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  ticketmaster: "add link"
-- artist: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  ticketmaster: "add link"
-- artist: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  ticketmaster: "add link"
-- artist: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  ticketmaster: "add link"
+- artist: Machel Montano
+  src: '/images/machelmontano.jpeg'
+  alt: Photo of Machel Montano
+  credit: By Gregg - originally posted to Flickr as Machel Mantano, CC BY 2.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=3986907
+  ticketmaster: https://www.ticketmaster.com/machel-montano-tickets/artist/734281
+- artist: Bunji Garlin
+  src: '/images/bunji.jpeg'
+  alt: Photo of Bunji Garlin
+  credit: By Attribution not necessary on any *.wikipedia.org or *.wikimedia.org pages, CC BY-SA 3.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=33488256
+  ticketmaster: https://www.ticketmaster.com/bunji-garlin-tickets/artist/1533254
+- artist: Nailah Blackman
+  src: '/images/nailah.jpg'
+  alt: Photo of Nailah Blackman
+  credit: By Soundcloud
+  creditLink: https://i1.sndcdn.com/avatars-000718551907-elxon2-t500x500.jpg
+  ticketmaster: https://www.ticketmaster.com/nailah-blackman-tickets/artist/2437836
+- artist: Lyrikal
+  src: '/images/lyrikal.jpeg'
+  alt: Photo of Lyrikal
+  credit: By Scothinks - Own work, CC BY-SA 3.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=31034481
+  ticketmaster: https://www.ticketmaster.com/lyrikal-tickets/artist/2793378
+- artist: Farmer Nappy
+  src: '/images/farmernappy.png'
+  alt: Photo of Farmer Nappy
+  credit: Farmer Nappy
+  creditLink: http://farmernappy.com/
+  ticketmaster: https://www.ticketmaster.com/farmer-nappy-tickets/artist/1996246

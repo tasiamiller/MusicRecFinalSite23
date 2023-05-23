@@ -1,30 +1,30 @@
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
-- album: 
-  src: '/images/'
-  alt: 
-  credit: 
-  creditLink:
-  spotify: "add link"
+- album: Far From Home , Calypso Rose 
+  src: '/images/farfromhome.jpg'
+  alt:  Far From Home by Calypso Rose 
+  credit: Band Camp
+  creditLink: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcalypsorose.bandcamp.com%2Ftrack%2Ffar-from-home-featuring-manu-chao&psig=AOvVaw3W76R0yWCLEZLKnn70YcQZ&ust=1684890691382000&source=images&cd=vfe&ved=0CAQQjB1qFwoTCJDiv6yhiv8CFQAAAAAdAAAAABAE
+  spotify: https://open.spotify.com/album/6iBR8xZKexEqguM3fb1FLW?si=tCzdjjzjQpqTYm4MaysFag
+- album: Discover America , Van Dyke Parks
+  src: '/images/discover.jpeg'
+  alt: Discover America by Van Dyke Parks
+  credit: By May be found at the following website; http://rateyourmusic.com/album_images2/10932.jpg, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=6049407
+  spotify: https://open.spotify.com/album/730kwx1apUVSJiquiUC7RO?si=Ara9vlJ7TPWs9DcidGIJUw
+- album: Calypso , Harry Belafonte
+  src: '/images/calypso.jpeg'
+  alt: Calypso by Harry Belafonte
+  credit: By The cover art can be obtained from RCA Victor., Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=3892857 
+  spotify: https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3?si=bo2hu1zHTlCtER561Ycmdw
+- album: Walking on Sunshine , Eddy Grant
+  src: '/images/sunshine.jpeg'
+  alt: Walking on Sunshine by Eddy Grant
+  credit: By The cover art can be obtained from Ice Records Limited., Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=27265630
+  spotify: https://open.spotify.com/album/0mOOYA6YzZRMnyovEWEgKV?si=O3RG7zPvR2-0OEduSJ5hgA
+- album: Miss Calypso , Maya Angelou
+  src: '/images/misscalypso.jpeg'
+  alt: Miss Calypso by Maya Angelou
+  credit: By Unknown - Original publication; 1957, &quot;Miss Calypso&quot; album cover produced in United States,Immediate https://www.amazon.com/Miss-Calypso-Maya-Angelou/dp/B000000IAH, Fair use, 
+  creditLink: https://en.wikipedia.org/w/index.php?curid=36595496
+  spotify: https://open.spotify.com/album/1KiBkFgQnwhJH2ohLeC1Mx?si=E6ooArPkSb-Ji3LTUGhXKQ

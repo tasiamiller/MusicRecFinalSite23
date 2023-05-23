@@ -47,15 +47,7 @@ Although much of the music that appears on record charts is considered to be pop
 </a>
 </div>
 
-<div class="sub">
-    <a href="/punk-pop" class="sub-link">
-<img src=""> <!-- image of popular album or artist from said sub-genre-->
-<div class="sub-info">
-<h3>Punk Pop<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
-</div>
-</a>
-</div>
+
 
 <div class="sub">
     <a href="/rnb" class="sub-link">
@@ -77,15 +69,7 @@ Although much of the music that appears on record charts is considered to be pop
 </a>
 </div>
 
-<div class="sub">
-    <a href="/teen-pop" class="sub-link">
-<img src=""> <!-- image of popular album or artist from said sub-genre-->
-<div class="sub-info">
-<h3>Teen Pop<!--sub genre name--></h3>
-<p><!-- short description of sub genre--></p>
-</div>
-</a>
-</div>
+
 
 
 
