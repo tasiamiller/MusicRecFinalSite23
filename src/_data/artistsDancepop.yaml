@@ -1,30 +1,30 @@
-- artist: 
-  src: '/images/'
+- artist: Beyonce
+  src: '/images/Beyonce.png'
   alt: 
-  credit: 
-  creditLink:
+  credit: By Sassy - Vimeo: The Lion King European Premiere (view archived source), CC BY 3.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=86494994
   ticketmaster: "add link"
-- artist: 
-  src: '/images/'
+- artist: Ariana Grande
+  src: '/images/Ariana Grande.png'
   alt: 
-  credit: 
-  creditLink:
+  credit:  Best dressed celebrities at the 2020 Grammys | Cosmopolitan UK – View/save archived versions on archive.org and archive.today (see specific archived version or its text-only cache, for slow loading), CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=86500941
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=86500941
   ticketmaster: "add link"
-- artist: 
-  src: '/images/'
+- artist: Shakira
+  src: '/images/Shakira.png'
   alt: 
-  credit: 
-  creditLink:
+  credit: By Condé Nast (through Vogue Taiwan), CC BY 3.0,
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=107804294
   ticketmaster: "add link"
-- artist: 
-  src: '/images/'
+- artist: Lady Gaga
+  src: '/images/Lady Gaga'
   alt: 
-  credit: 
-  creditLink:
+  credit: By Carlos M. Vazquez II - 210120-D-WD757-1720, CC BY 2.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=121269563
   ticketmaster: "add link"
-- artist: 
-  src: '/images/'
+- artist: Katy Perry
+  src: '/images/Katy Perry.png'
   alt: 
-  credit: 
-  creditLink:
+  credit: By CJ A. (@ChrisAntonacci1 on Twitter) - https://twitter.com/ChrisAntonacci1/status/1477151060447797251, CC BY-SA 4.0, 
+  creditLink: https://commons.wikimedia.org/w/index.php?curid=113999572
   ticketmaster: "add link"
