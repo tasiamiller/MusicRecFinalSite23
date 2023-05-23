@@ -19,46 +19,46 @@ This particular style gained immense popularity during the first to middle years
 
 <h1 class="center">Genres</h1>
 
-<section class="main">
+ <section class="main">
 <div class="genre">
 <div id="img">
-<a href="/hiphop"><img src="/images/MBDTF.jpg" alt=""></a>
+<a href="/"><img src="/images/MBDTF.jpg" alt=""></a>
 </div>
-<div class="desc">
-<h4>Hip Hop</h4>
-<p>Hip hop is a cultural movement and music genre that originated in African American and Latino communities in the Bronx, New York City in the 1970s. 
-It is characterized by a rhythmic and rhyming speech that is accompanied by DJ scratching, beatboxing, and music production.
-</p>
-</div>
-</a>
-</div>
+            <div class="desc">
+            <a href="/hiphop"><h4>Hip Hop</h4></a>
+            <p>Hip hop is a cultural movement and music genre that originated in African American and Latino communities in the Bronx, New York City in the 1970s. 
+            It is characterized by a rhythmic and rhyming speech that is accompanied by DJ scratching, beatboxing, and music production.
+            </p>
+            </div>
+                </a>
+            </div>
 
-<section class="main">
-<div class="genre">
-<div id="img">
-<a href="/pop"><img src="/images/MBDTF.jpg" alt=""></a>
-</div>
-<div class="desc">
-<h4>Pop</h4>
-<p>Hip Hop is a cultural movement and music genre that originated in African American and Latino communities in the Bronx, New York City in the 1970s. 
-It is characterized by a rhythmic and rhyming speech that is accompanied by DJ scratching, beatboxing, and music production.
-</p>
-</div>
-</a>
-</div>
+            <section class="main">
+                <div class="genre">
+                <div id="img">
+                <a href="/pop"><img src="/images/MBDTF.jpg" alt=""></a>
+                </div>
+                <div class="desc">
+                <h4>Pop</h4>
+                <p>Hip Hop is a cultural movement and music genre that originated in African American and Latino communities in the Bronx, New York City in the 1970s. 
+                It is characterized by a rhythmic and rhyming speech that is accompanied by DJ scratching, beatboxing, and music production.
+                </p>
+                </div>
+                    </a>
+                </div>
 
-<section class="main">
-<div class="genre">
-<div id="img">
-<a href="/soca-music"><img src="/images/MBDTF.jpg" alt=""></a>
-</div>
-<div class="desc">
-<h4>Soca</h4>
-<p>Hip hop is a cultural movement and music genre that originated in African American and Latino communities in the Bronx, New York City in the 1970s. 
-It is characterized by a rhythmic and rhyming speech that is accompanied by DJ scratching, beatboxing, and music production.
-</p>
-</div>
-</a>
-</div>
+                <section class="main">
+                    <div class="genre">
+                    <div id="img">
+                    <a href="/soca-music"><img src="/images/MBDTF.jpg" alt=""></a>
+                    </div>
+                    <div class="desc">
+                    <h4>Soca</h4>
+                    <p>Hip hop is a cultural movement and music genre that originated in African American and Latino communities in the Bronx, New York City in the 1970s. 
+                    It is characterized by a rhythmic and rhyming speech that is accompanied by DJ scratching, beatboxing, and music production.
+                    </p>
+                    </div>
+                        </a>
+                    </div>
 <p><!-- about us paragraph here--></p>
 
