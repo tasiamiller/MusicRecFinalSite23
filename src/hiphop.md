@@ -38,10 +38,11 @@ Hip hop as both a musical genre and a culture was formed during the 1970s when b
         </figure>
 <div class="desc">
 <h3>Grime<!--sub genre name--></h3>
-
 <p>The grime rap genre is a style of music that originated in the United Kingdom, specifically in the London area, during the early 2000s. 
 <!-- short description of sub genre--></p>
-
+</div>
+</a>
+</div>
 
 
 <div class="genre">
