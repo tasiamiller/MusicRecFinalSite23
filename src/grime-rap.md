@@ -3,7 +3,7 @@ title: Grime
 layout: base.njk
 pageClass: hiphop
 ---
-<h1 class="subgenre-title">Grime- UK Based Hiphop <!-- sub genre name--></h1>
+<h1 class="center">Grime- UK Based Hiphop <!-- sub genre name--></h1>
 
 <p class="summary"> The grime rap genre is a style of music that originated in the United Kingdom, specifically in the London area, during the early 2000s. It emerged as a fusion of UK garage, dancehall, and hip hop, with influences from other genres such as drum and bass. Grime is characterized by its fast-paced, aggressive, and energetic sound, often featuring rapid-fire and intricate lyricism delivered in a distinctive British accent.<!-- subgenre summary--></p>
 

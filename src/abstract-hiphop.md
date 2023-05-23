@@ -1,9 +1,9 @@
 ---
-title: Abstract HipHop
+title: Abstract Hip Hop
 layout: base.njk
 pageClass: hiphop
 ---
-<h1 class="subgenre-title"> Abstract Hip Hop<!-- sub genre name--></h1>
+<h1 class="center"> Abstract Hip Hop<!-- sub genre name--></h1>
 
 <p class="summary">Abstract hip hop is a form of Hip Hop characterized by rappers employing more abstract lyrics compared to the conventional norms of the genre. The content of the lyrics encompasses a wide spectrum, ranging from philosophical and abstract concepts to absurd and stream-of-consciousness ideas. In contrast to the direct and explicit language commonly found in mainstream hip hop, abstract hip hop favors the use of extensive metaphors, symbolic word choices, and enigmatic meanings. Many artists within this style deviate from the usual conventions of rhyme and rhythm in their rapping, instead incorporating unconventional poetic meters that sometimes resemble Spoken Word. Moreover, abstract hip hop musicians often feature unconventional beats that complement the unorthodox lyrical approach, often blurring the lines with Experimental Hip Hop. <!-- subgenre summary--></p>
 

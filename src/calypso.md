@@ -3,7 +3,7 @@ title: Calypso
 layout: base.njk
 pageClass: soca
 ---
-<h1 class="subgenre-title">Calyspo <!-- sub genre name--></h1>
+<h1 class="center">Calyspo <!-- sub genre name--></h1>
 
 <p class="summary"> Calypso is a style of Caribbean music that originated in Trinidad and Tobago during the early to the mid-19th century and spread to the rest of the Caribbean Antilles by the mid-20th century. Its rhythms can be traced back to West African Kaiso and the arrival of French planters and their slaves from the French Antilles in the 18th century.Calypso in the Caribbean includes a range of genres, including benna in Antigua and Barbuda; mento, a style of Jamaican folk music that greatly influenced ska and reggae; ska, the precursor to rocksteady, and reggae; spouge, a style of Barbadian popular music; Dominica cadence-lypso, which mixed calypso with the cadence of Haiti; and soca music, a style of kaiso/calypso, with influences from chutney, soul, funk, Latin and cadence-lypso<!-- subgenre summary--></p>
 

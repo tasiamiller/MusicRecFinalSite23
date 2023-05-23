@@ -3,7 +3,7 @@ title: Mumble Rap
 layout: base.njk
 pageClass: hiphop
 ---
-<h1 class="subgenre-title">Mumble Rap <!-- sub genre name--></h1>
+<h1 class="center">Mumble Rap <!-- sub genre name--></h1>
 
 <p class="summary">Mumble rap is known for its emphasis on the overall vibe and energy of the music rather than intricate lyricism or storytelling. The lyrics often prioritize catchy phrases, ad-libs, and repetitive rhymes over deep meaning or complex wordplay. As the name suggests, mumble rap artists sometimes deliver their vocals in a way that can be difficult to understand or decipher, with a focus on the flow and melody rather than clear articulation. <!-- subgenre summary--></p>
 
